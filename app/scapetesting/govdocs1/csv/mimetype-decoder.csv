@@ -1,0 +1,1298 @@
+"application/applefile","AppleDouble MIME Format","DAT, AD",0,"M","2.16.00",2439
+"application/applefile","AppleSingle MIME Format",0,0,"M","2.16.00",2438
+"application/applefile","MacBinary (Mac Data + Resource Fork)","MAC","Y","H","2.15.00",13
+"application/atom+xml","Atom Format","ATOM","Y","H","2.16.00",2440
+"application/avast-aswcs","avast! Antivirus Skin","ASWCS",0,"M","2.20.00",2869
+"application/cnrp+xml","Common Name Resolution Protocol","CNRP","Y","H","2.16.00",2441
+"application/cpl+xml","Call Processing Language","CPL","Y","H","2.16.00",2442
+"application/cprplayer","Corel Presents Presentation","PQF, SHW, CPR","Y","H","2.27.00",634
+"application/dca-rft","IBM DCA Revisable Form Text","RFT",0,"M","2.19.00",1010
+"application/dicom","DICOM Image","DICM, DCM",0,"M","2.20.01",1550
+"application/dicom","DICOM Image (MacBinary)","DICM, DCM",0,"M","2.16.00",2443
+"application/dvcs","Internet X.509 Public Key DVCS Protocol","DVCS",0,"M","2.16.00",2444
+"application/epp+xml","Extensible Provisioning Protocol","EPP","Y","H","2.16.00",2445
+"application/epub+zip","Open Publication Structure eBook","EPUB",0,"H","2.26.00",3573
+"application/fastinfoset","Fast Infoset (XML)","FINF","Y","H","2.16.00",2446
+"application/fits","Flexible Image Transport System Bitmap","FITS, FIT, FTS, LST",0,"M","2.08.00",726
+"application/freeloader","FormFlow Form","FRL, FRP, FRZ","Y","H","2.27.00",3629
+"application/hyperstudio","HyperStudio Stack (MacBinary)","STK",0,"M","2.16.00",2447
+"application/iges","Initial Graphics Exchange Specification","IGES, IGS",0,"M","2.26.01",795
+"application/igs","Initial Graphics Exchange Specification","IGES, IGS",0,"M","2.26.01",795
+"application/javascript","Java Script Source Code File","JS, ASP, HTM, HTML, HTT, HTC, ASPX, ASCX",0,"H","2.23.01",401
+"application/javascript","Web Script Source Code","JS, ASP, HTM, HTML, HT?, INC, AS?X, BAS",0,"M","2.23.01",3319
+"application/keychain_access","CrossePAC Compressed Archive","PAC",0,"M","2.06.00",1362
+"application/keychain_access","x509 Security Certificate","CRT",0,"M","2.21.00",2984
+"application/keychain_access","x509v3 Security Certificate","CRT",0,"M","2.21.00",2985
+"application/lzx","LZX Archive","LZX",0,"M","2.29.00",471
+"application/mac-binhex40","BinHex Archive","HQX, HEX","Y","M","1.00.00",259
+"application/mac-binhex40","BinHex Archive (MacBinary)","HQX, HEX",0,"M","2.09.00",1797
+"application/macwriteii","MacWrite II (MacBinary)",0,0,"M","2.16.00",2448
+"application/macwriteii","MacWrite II Document (MacBinary)",0,0,"M","2.09.00",1753
+"application/mp4","AAC MPEG-4 Audio","MP4, MPG4",0,"M","2.29.00",1534
+"application/mp4","Apple MPEG-4 ALE Audio","M4A, MP4, MPG4",0,"M","2.07.00",1530
+"application/mp4","MPEG 4 Animation","MP4, MPEG, MPG4",0,"M","2.16.00",2423
+"application/mp4","MPEG 4 Animation (MacBinary)","MP4, MPEG, MPG4",0,"M","2.16.00",2449
+"application/MP4A-LATM","AAC MPEG-4 Audio","MP4, MPG4",0,"M","2.29.00",1534
+"application/MP4A-LATM","Apple MPEG-4 ALE Audio","M4A, MP4, MPG4",0,"M","2.07.00",1530
+"application/msword","MS Word 6.0/95 Document (pre-OLE)","DOC, DOT, WIZ, WZS, WRI, WBK","Y","M","2.19.00",2738
+"application/msword","MS Word 97-2003 Document (OLE)","DOC, DOT, WIZ, WZS, WRI, WBK","Y","H","2.30.04",229
+"application/msword","MS Word for DOS/Macintosh Document","DOC","Y","H","1.00.00",217
+"application/msword","MS Word/Publisher Wizard","WIZ",0,"L","2.00.00",1147
+"application/mxf","Material Exchange Format File","MXF",0,"M","2.10.00",1921
+"application/mxf","Material Exchange Format File (MacBinary)","MXF",0,"M","2.16.00",2450
+"application/octet-stream","Binary Data File (Unknown Source)","BIN, BI",0,"L","1.05.00",380
+"application/octet-stream","Sun Compacted Archive",0,0,"M","2.22.00",3118
+"application/octet-stream","Ultrix Compacted Archive",0,0,"M","2.22.00",3119
+"application/octet-stream","UU-Encoded File","UU, UUE, DAT","Y","H","2.03.15",1109
+"application/ogg","OGG FLAC Compressed Audio","OGG",0,"M","2.24.00",2922
+"application/ogg","OGG Vorbis Compressed Audio","OGG, OGA",0,"M","2.24.00",1537
+"application/ogg","OGG Vorbis Compressed Audio (MacBinary)","OGG",0,"M","2.16.00",2451
+"application/ogg","OGG Vorbis Compressed Video","OGM, OGV",0,"M","2.26.00",1934
+"application/ogg","OGG Vorbis Compressed Video (MacBinary)","OGM, OGV",0,"M","2.26.00",3593
+"application/ogg","Speex Encoded Audio","SPX",0,"M","2.24.00",1727
+"application/pdf","Adobe Portable Document (MacBinary)","PDF","Y","H","2.26.00",1331
+"application/pdf","Adobe Portable Document Format","PDF","Y","H","2.31.00",258
+"application/pdf","Adobe Portable Document Format (PDF/A)","PDF","Y","H","2.31.02",4065
+"application/pdf","Adobe Portable Document Format (PDF/A-1a)","PDF","Y","H","2.31.02",4062
+"application/pdf","Adobe Portable Document Format (PDF/A-1b)","PDF","Y","H","2.31.02",4063
+"application/pdf","Adobe Portable Document Format (PDF/X)","PDF","Y","H","2.31.02",4064
+"application/pgp","Pretty Good Privacy Message (ASCII)",0,0,"M","2.22.00",3086
+"application/pgp","Pretty Good Privacy Signed Message (ASCII)",0,0,"M","2.22.00",3084
+"application/pgp-encrypted","Pretty Good Privacy Encrypted Data",0,0,"M","2.16.00",2435
+"application/pgp-encrypted","Pretty Good Privacy Key/Signature/Data","PGP",0,"M","2.16.00",942
+"application/pgp-encrypted","Pretty Good Privacy Private Key Block (ASCII)",0,0,"M","2.24.00",3413
+"application/pgp-encrypted","Pretty Good Privacy Public Key Block",0,0,"M","2.16.00",2432
+"application/pgp-encrypted","Pretty Good Privacy Public Key Block (ASCII)",0,0,"M","2.22.00",3085
+"application/pgp-encrypted","Pretty Good Privacy Signature",0,0,"M","2.16.00",2434
+"application/pgp-encrypted","Pretty Good Privacy Signature (ASCII)","ASC",0,"H","2.18.00",2627
+"application/pgp-encrypted","Pretty Good Privacy Signed Message",0,0,"M","2.16.00",2433
+"application/pgp-encrypted","Pretty Good Privacy Virtual Disk Image","PGD",0,"M","2.09.00",1730
+"application/pgp-encrypted","Pretty Simple Archive","PSA",0,"M","2.14.00",2307
+"application/pgp-keys","Pretty Good Privacy (PGP) Private Keyring","SKA, SKR",0,"M","2.07.00",1066
+"application/pgp-keys","Pretty Good Privacy Key/Signature/Data","PGP",0,"M","2.16.00",942
+"application/pgp-keys","Pretty Good Privacy Private Key Block (ASCII)",0,0,"M","2.24.00",3413
+"application/pgp-keys","Pretty Good Privacy Public Key Block",0,0,"M","2.16.00",2432
+"application/pgp-keys","Pretty Good Privacy Public Key Block (ASCII)",0,0,"M","2.22.00",3085
+"application/pgp-keys","Pretty Good Privacy Public Keyring","PKR",0,"M","2.16.00",1452
+"application/pgp-signature","Pretty Good Privacy Key/Signature/Data","PGP",0,"M","2.16.00",942
+"application/pgp-signature","Pretty Good Privacy Signature",0,0,"M","2.16.00",2434
+"application/pgp-signature","Pretty Good Privacy Signature (ASCII)","ASC",0,"H","2.18.00",2627
+"application/pidf+xml","Presence Information Data Format","PIDF","Y","H","2.16.00",2452
+"application/pkcs10","PKCS Certificate / Digital ID","P7C, P10, P12, P7B",0,"L","2.00.00",924
+"application/pkcs7-mime","PKCS #7 Secure MIME Message","P7M, EML, TXT",0,"M","2.22.01",1810
+"application/pkcs7-mime","PKCS Certificate / Digital ID","P7C, P10, P12, P7B",0,"L","2.00.00",924
+"application/pkcs7-signature","CrossePAC Compressed Archive","PAC",0,"M","2.06.00",1362
+"application/pkix-cert","VeriSign Security Certificate","CER, CRT, DER, DAT, CRL",0,"M","2.07.00",615
+"application/pkix-cert","x509 Security Certificate","CRT",0,"M","2.21.00",2984
+"application/pkix-cert","x509v3 Security Certificate","CRT",0,"M","2.21.00",2985
+"application/pkix-crl","VeriSign Security Certificate","CER, CRT, DER, DAT, CRL",0,"M","2.07.00",615
+"application/postscript","Adobe PostScript Document","PS, AI","Y","H","2.23.01",301
+"application/postscript","Adobe PostScript Document (PJL)","PS, PLT","Y","H","2.06.03",410
+"application/postscript","Encapsulated PostScript Document","EPS, EPI, EPSF, AI, PS","Y","H","2.13.00",171
+"application/postscript","Encapsulated PostScript Document (MacBinary)","EPS, EPI, EPSF, AI",0,"M","2.09.00",1732
+"application/postscript","Encapsulated PostScript Preview","EPS, EPSF",0,"M","2.06.00",133
+"application/prs.nprend","AutoShade Rendering / Slide","RND",0,"L","2.28.00",3823
+"application/prs.plucker","Plucker Document","PDB",0,"M","2.23.00",2453
+"application/rdf+xml","XML Resource Description Framework","RDF","Y","H","2.16.00",1007
+"application/relax-ng-compact-syntax","Relax NG Compact Syntax File","RNC","Y","H","2.16.00",2454
+"application/rtf","MS Rich Text Format Document","RTF, DOC, WRI, WBK","Y","H","2.32.01",269
+"application/rtf","MS Rich Text Format Document (Mac)","RTF","Y","H","2.24.00",3299
+"application/rtf","MS Rich Text Format Document (MacBinary)","RTF, DOC, WRI, WBK",0,"M","2.09.00",1756
+"application/sdw","Word Pro Graphic / AMI Draw Vector Image","SDW",0,"L","2.28.00",3822
+"application/sgml","Standard Generalized Markup Lang","SGML, XML",0,"M","2.21.00",1060
+"application/simple-filter+xml","XML Based Filtering Format","cl, xml","Y","H","2.16.00",2455
+"application/smil","Synchronized Multimedia Integrated Language","SMI, SMIL",0,"M","2.14.00",2239
+"application/smil+xml","Synchronized Multimedia Integrated Language","SMI, SMIL",0,"M","2.14.00",2239
+"application/step","CATIA ISO-10303 STEP Product Data","STEP, STP",0,"M","2.26.01",3607
+"application/thinkdesign","thinkdesign CAD Drawing","E3","Y","H","2.27.00",3626
+"application/vnd-wordperfect","WordPerfect Document","DOC, WP, WKB, WPD, WPT, WP#","Y","M","2.25.00",157
+"application/vnd-wordperfect","WordPerfect Document (OLE)","DOC","Y","M","2.30.00",3965
+"application/vnd.3M.Post-it-Notes","Post-it-Notes (MacBinary)","PWN",0,"M","2.16.00",2456
+"application/vnd.acucobol","ACUCOBOL-GT Intermediate Object File","ACU",0,"M","2.16.00",2349
+"application/vnd.adobe.xdp+xml","Acrobat XML Data Package File","XDP, XDC","Y","H","2.16.00",2458
+"application/vnd.apple.install","Mac OS X Installer (MacBinary)","DIST, DISTZ, PKG, MPKG",0,"M","2.16.00",2459
+"application/vnd.audiograph","AudioGraph Video (MacBinary)","DIST, DISTZ, PKG, MPKG",0,"M","2.16.00",2460
+"application/vnd.book","FrameMaker Book","FM, FRM",0,"M","2.20.00",2898
+"application/vnd.cinderella","Cinderella (MacBinary)","CDY",0,"M","2.16.00",2461
+"application/vnd.commonspace","CommonSpace Document/Template (MacBinary)","CSP, CST",0,"M","2.16.00",2463
+"application/vnd.framemaker","FrameMaker Book","FM, FRM",0,"M","2.20.00",2898
+"application/vnd.framemaker","FrameMaker Document","FM, FRM",0,"M","2.04.01",730
+"application/vnd.frogans.fnc","Frogans Document","FNC","Y","H","2.16.00",2465
+"application/vnd.frogans.ltf","Frogans Short-cut","LTF",0,"M","2.29.00",3904
+"application/vnd.fujixerox.ddd","DocuFile / EDMICS 2000","DDD",0,"M","2.16.00",2466
+"application/vnd.fuzzysheet","FuzzySheet Document","FZS",0,"M","2.16.00",2467
+"application/vnd.google-earth.kml+xml","Google Earth Keyhole Markup Language","KML","Y","H","2.28.00",2469
+"application/vnd.google-earth.kml+xml","Google Earth Keyhole Markup Language (MacBinary)","KML",0,"M","2.16.00",2470
+"application/vnd.google-earth.kmz","Google Earth Compressed Keyhole Markup Language","KMZ","Y","H","2.26.00",3526
+"application/vnd.grafeq","GrafEq Document (MacBinary)","GQF, GQS",0,"M","2.16.00",2471
+"application/vnd.hp-hpf","HP LaserJet Font","HPF",0,"M","2.26.00",3543
+"application/vnd.hp-HPGL","HP Graphics Language Drawing","HGL, HPGL, PLT, HPG",0,"M","2.28.00",778
+"application/vnd.hp-HPGL","HP Graphics Language Drawing (PJL)","HPGL, HGL, PLT","Y","H","2.06.03",841
+"application/vnd.hp-hpgl","HP Plotter Language Drawing","PGL, HPGL",0,"M","2.23.00",941
+"application/vnd.hp-jlyt","Job Layout Language Image","JLYT",0,"M","2.16.00",2472
+"application/vnd.informix-visionary","Visionary Image","VIS",0,"M","2.16.00",2473
+"application/vnd.jcp.javame.midlet-rms","Java Midlet","RMS",0,"M","2.16.00",2474
+"application/vnd.kde.karbon","Karbon Document","KARBON","Y","H","2.21.00",2475
+"application/vnd.kde.kchart","KChart Document","CHRT","Y","H","2.21.00",2476
+"application/vnd.kde.kformula","KFormula Document","KFO","Y","H","2.21.00",2477
+"application/vnd.kde.kivio","Kivio Document","FLW","Y","H","2.21.00",2478
+"application/vnd.kde.kontour","Kontour Document","KON","Y","H","2.21.00",2479
+"application/vnd.kde.kpresenter","KPresenter Slide Show (XML)","KPR, KPT","Y","H","2.21.00",2480
+"application/vnd.kde.kspread","KSpread Document","KSP","Y","H","2.21.00",2481
+"application/vnd.kde.kword","KWord Document / Template","KWD, KWT","Y","H","2.21.00",2482
+"application/vnd.lotus-1-2-3","Jazz Worksheet",0,0,"M","2.31.00",4026
+"application/vnd.lotus-1-2-3","Lotus 123 Ver. 1 & 1A Worksheet","WKS",0,"M","1.00.00",106
+"application/vnd.lotus-1-2-3","Lotus 123 Ver. 2 / Symphony 1.1 Worksheet","WK1, WKS",0,"M","1.00.00",104
+"application/vnd.lotus-1-2-3","Lotus 123 Ver. 3 & 4 Worksheet","WK3, WK4, 123, 12M",0,"M","2.07.00",105
+"application/vnd.lotus-1-2-3","Lotus 123 Worksheet (MacBinary)","123, WK1, WK3, WK4",0,"M","2.16.00",2483
+"application/vnd.lotus-1-2-3","Symphony 1.0 Worksheet","WKS, WRK",0,"M","1.00.00",107
+"application/vnd.lotus-approach","Lotus Approach Document","APR, MPR","Y","H","2.19.00",2512
+"application/vnd.lotus-freelance","Lotus Freelance Graphics 97 File","PRZ, DGM, SMC, MAS, SYM, PRE, BW, PAL",0,"M","2.28.00",976
+"application/vnd.lotus-freelance","Lotus Freelance Graphics Smartmaster Look","MAS",0,"H","2.19.00",858
+"application/vnd.lotus-notes","Lotus Notes Database Storage Facility","NS2, NSF, NTF, NDL, NS#, NSG, NSH",0,"M","2.13.05",900
+"application/vnd.lotus-organizer","Lotus Organiser Report","REP",0,"M","2.11.00",2007
+"application/vnd.lotus-organizer","Lotus Organizer File","ORG, OR2, OR3",0,"M","2.19.00",916
+"application/vnd.lotus-screencam","ScreenCam Movie","SCM",0,"M","2.12.00",2109
+"application/vnd.lotus-wordpro","Lotus Word Pro 96/97 Document","LWP, MWP",0,"M","2.23.00",846
+"application/vnd.lotus-wordpro","Lotus Word Pro 97 Smartmaster","MWP",0,"L","2.00.00",889
+"application/vnd.MFER","Medical Waveform Description","MWF",0,"M","2.16.00",2484
+"application/vnd.MFER","Medical Waveform Description (MacBinary)","MWF",0,"M","2.16.00",2485
+"application/vnd.mif","FrameMaker Interchange File","MIF",0,"M","2.06.00",872
+"application/vnd.minisoft-hp3000-save","NetMail/3000 / DeskLink / MS92 File",0,0,"M","2.16.00",2486
+"application/vnd.ms-asf","MS Windows Media Active Stream","WMV, WMA, ASF, ASR, DVR-MS",0,"H","2.19.00",1259
+"application/vnd.ms-cab-compressed","MS Windows Cabinet Archive","CAB, PKG, ??Z, ??_, GDP, CDM, MSU",0,"M","2.07.00",99
+"application/vnd.ms-cab-compressed","MS Windows Cabinet Archive (MacBinary)","CAB, PKG, ??Z, ??_, GDP",0,"M","2.16.00",2487
+"application/vnd.ms-excel","MS Excel Chart","XLC","Y","H","2.26.00",109
+"application/vnd.ms-excel","MS Excel Macro","XLM","Y","H","2.19.00",110
+"application/vnd.ms-excel","MS Excel Worksheet/Template (OLE)","XLS, XLA, XLT, XLB, WWS, XLM","Y","H","2.29.01",111
+"application/vnd.ms-excel","MS Excel Workspace/Workbook","XLW","Y","H","2.19.00",195
+"application/vnd.ms-excel","MS Works Spreadsheet (OLE)","WLR","Y","H","2.18.00",2625
+"application/vnd.ms-excel","MS Works Spreadsheet 2 for Mac","SS2, SS",0,"M","2.21.00",3010
+"application/vnd.ms-excel","MS Works Spreadsheet 2 for Windows/DOS","WKS",0,"M","2.21.00",3007
+"application/vnd.ms-excel","MS Works Spreadsheet 3 for Mac","SS3, SS",0,"M","2.21.00",3011
+"application/vnd.ms-excel","MS Works Spreadsheet for DOS","WKS",0,"M","2.21.00",2125
+"application/vnd.ms-htmlhelp","MS Windows Compiled HTML Help Module","CHM, CHI, CHQ, CHW, SLL",0,"M","2.00.00",338
+"application/vnd.ms-powerpoint","MS PowerPoint Slides (MacBinary)","PPT, PPA, POT, PPS",0,"M","2.28.00",1758
+"application/vnd.ms-powerpoint","MS PowerPoint Slides (OLE)","PPT, PPA, POT, PPS","Y","H","2.30.04",164
+"application/vnd.ms-project","MS Project File","MPP, MPT","Y","H","2.26.00",348
+"application/vnd.ms-tnef","MS Outlook Rich Text Formatted Message","EML, TNEF, DAT",0,"H","2.22.01",1811
+"application/vnd.ms-works","MS Works Database (MacBinary)","WDB",0,"M","2.09.00",1740
+"application/vnd.ms-works","MS Works Database (OLE)","WDB, DB","Y","H","2.27.00",567
+"application/vnd.ms-works","MS Works Database 2 for Windows/DOS","WDB",0,"M","2.21.00",3005
+"application/vnd.ms-works","MS Works Database 3 for Windows","WDB",0,"M","2.28.00",3006
+"application/vnd.ms-works","MS Works Database Wizard","WWD, WDB","Y","H","2.26.00",2392
+"application/vnd.ms-works","MS Works Document (MacBinary)","WPS",0,"M","2.09.00",1742
+"application/vnd.ms-works","MS Works for DOS Document","WPS, WWP","Y","H","2.28.00",134
+"application/vnd.ms-works","MS Works for Mac 2 Document","WP2",0,"M","2.19.00",2759
+"application/vnd.ms-works","MS Works for Mac 3 Document","WP",0,"M","2.19.00",2758
+"application/vnd.ms-works","MS Works for Mac 4 Database/Doc/Sheet (OLE)","DB4, WP4, SS4","Y","H","2.19.00",2757
+"application/vnd.ms-works","MS Works for Windows 3 Document (OLE)","WPS, WWP","Y","H","2.19.00",2624
+"application/vnd.ms-works","MS Works Portfolio","WSB",0,"H","2.17.00",1140
+"application/vnd.ms-works","MS Works Spreadsheet (MacBinary)","WKS",0,"M","2.09.00",1741
+"application/vnd.ms-works","MS Works Spreadsheet (OLE)","WLR","Y","H","2.18.00",2625
+"application/vnd.ms-works","MS Works Spreadsheet 2 for Mac","SS2, SS",0,"M","2.21.00",3010
+"application/vnd.ms-works","MS Works Spreadsheet 2 for Windows/DOS","WKS",0,"M","2.21.00",3007
+"application/vnd.ms-works","MS Works Spreadsheet 3 for Mac","SS3, SS",0,"M","2.21.00",3011
+"application/vnd.ms-works","MS Works Spreadsheet for DOS","WKS",0,"M","2.21.00",2125
+"application/vnd.ms-wpl","MS Windows Media Player Playlist (XML)","WPL",0,"M","2.03.06",466
+"application/vnd.ms-xpsdocument","XML Paper Specification Document (Open XML)","XPS","Y","H","2.32.00",2148
+"application/vnd.music-niff","Notation Interchange File Format (Intel)","NIF, RMI",0,"M","2.14.00",2271
+"application/vnd.music-niff","Notation Interchange File Format (Motorola)","NIF, RMI",0,"H","2.17.00",1926
+"application/vnd.music-niff","Simple Musical Score IFF MIDI","SMU, IFF, SMUS, MUS","Y","H","1.00.00",198
+"application/vnd.netfpx","FlashPix Bitmap","FPX, CPX, FMP","Y","H","2.26.00",740
+"application/vnd.netfpx","FlashPix Bitmap (MacBinary)","FPX, CPX, FMP",0,"M","2.16.00",512
+"application/vnd.oasis.opendocument.chart","OpenDocument Chart","ODC","Y","H","2.21.00",2488
+"application/vnd.oasis.opendocument.chart-template","OpenDocument Chart Template","OTC","Y","H","2.21.00",2489
+"application/vnd.oasis.opendocument.database","OpenDocument Database",0,"Y","H","2.24.00",3376
+"application/vnd.oasis.opendocument.formula","OpenDocument Formula","ODF","Y","H","2.21.00",2490
+"application/vnd.oasis.opendocument.formula-template","OpenDocument Formula Template","OTF","Y","H","2.21.00",2491
+"application/vnd.oasis.opendocument.graphics","OpenDocument Graphics","ODG","Y","H","2.21.00",2492
+"application/vnd.oasis.opendocument.graphics-template","OpenDocument Graphics Template","OTG","Y","H","2.21.00",2493
+"application/vnd.oasis.opendocument.image","OpenDocument Image","ODI","Y","H","2.21.00",2494
+"application/vnd.oasis.opendocument.image-template","OpenDocument Image Template","OTI","Y","H","2.21.00",2495
+"application/vnd.oasis.opendocument.presentation","OpenDocument Presentation","ODP","Y","H","2.21.00",2496
+"application/vnd.oasis.opendocument.presentation-template","OpenDocument Presentation Template","OTP","Y","H","2.21.00",2497
+"application/vnd.oasis.opendocument.spreadsheet","OpenDocument Spreadsheet","ODS","Y","H","2.21.00",2498
+"application/vnd.oasis.opendocument.spreadsheet-template","OpenDocument Spreadsheet Template","OTS","Y","H","2.21.00",2499
+"application/vnd.oasis.opendocument.text","OpenDocument Office Document","ODT, O?I, O?G, O?F, O?C, O?T, OD?, OT?","Y","H","2.21.00",1499
+"application/vnd.oasis.opendocument.text","OpenDocument Text","ODT","Y","H","2.21.00",2500
+"application/vnd.oasis.opendocument.text-master","OpenDocument Text Master","OTM","Y","H","2.21.00",2501
+"application/vnd.oasis.opendocument.text-template","OpenDocument Text Template","OTT","Y","H","2.21.00",2502
+"application/vnd.oasis.opendocument.text-web","OpenDocument Text Web","OTH","Y","H","2.21.00",2503
+"application/vnd.palm","Palm OS Application",0,0,"M","2.23.00",3278
+"application/vnd.palm","Palm OS Application Data (MacBinary)","PDB",0,"M","2.09.00",1799
+"application/vnd.palm","Palm OS Database (MacBinary)","PDB",0,"M","2.09.00",1798
+"application/vnd.palm","Palm OS Database/Document","PDB",0,"M","2.07.00",1337
+"application/vnd.palm","Plucker Document","PDB",0,"M","2.23.00",2453
+"application/vnd.piaccess.application-licence","piAccess Mail / Link","PIL",0,"M","2.16.00",946
+"application/vnd.powerbuilder6","PowerBuilder Dynamic Library","PBD, DLL",0,"M","2.03.06",927
+"application/vnd.powerbuilder6","PowerBuilder Dynamic Library (MacBinary)","PBD, DLL",0,"M","2.16.00",2504
+"application/vnd.powerbuilder6-s","PowerBuilder Dynamic Library","PBD, DLL",0,"M","2.03.06",927
+"application/vnd.powerbuilder6-s","PowerBuilder Dynamic Library (MacBinary)","PBD, DLL",0,"M","2.16.00",2504
+"application/vnd.powerbuilder7","PowerBuilder Dynamic Library","PBD, DLL",0,"M","2.03.06",927
+"application/vnd.powerbuilder7","PowerBuilder Dynamic Library (MacBinary)","PBD, DLL",0,"M","2.16.00",2504
+"application/vnd.powerbuilder7-s","PowerBuilder Dynamic Library","PBD, DLL",0,"M","2.03.06",927
+"application/vnd.powerbuilder7-s","PowerBuilder Dynamic Library (MacBinary)","PBD, DLL",0,"M","2.16.00",2504
+"application/vnd.powerbuilder75","PowerBuilder Dynamic Library","PBD, DLL",0,"M","2.03.06",927
+"application/vnd.powerbuilder75","PowerBuilder Dynamic Library (MacBinary)","PBD, DLL",0,"M","2.16.00",2504
+"application/vnd.powerbuilder75-s","PowerBuilder Dynamic Library","PBD, DLL",0,"M","2.03.06",927
+"application/vnd.powerbuilder75-s","PowerBuilder Dynamic Library (MacBinary)","PBD, DLL",0,"M","2.16.00",2504
+"application/vnd.preminet","Preminet File","PREMINET",0,"M","2.16.00",2505
+"application/vnd.Quark.QuarkXPress","Quark XPress Document (MacBinary)","QXD",0,"M","2.16.00",1764
+"application/vnd.Quark.QuarkXPress","Quark XPress Document/Template (English,Intel)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1000
+"application/vnd.Quark.QuarkXPress","Quark XPress Document/Template (English,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1439
+"application/vnd.Quark.QuarkXPress","Quark XPress Document/Template (Korean,Intel)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3112
+"application/vnd.Quark.QuarkXPress","Quark XPress Document/Template (Korean,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3113
+"application/vnd.scribus","Scribus Document","SLA, SCD, SLAZ",0,"M","2.11.00",2036
+"application/vnd.sealed.csf","Brava Reader Content Sealed Format","CSF, SCSF",0,"M","2.10.00",1822
+"application/vnd.seemail","SeeMail Video (MacBinary)","SEE",0,"M","2.16.00",449
+"application/vnd.shana.informed.formdata","Informed Filler Form (MacBinary)","IFM",0,"M","2.16.00",474
+"application/vnd.shana.informed.formtemplate","Informed Filler Template (MacBinary)","ITP",0,"M","2.16.00",475
+"application/vnd.shana.informed.interchange","Informed Interchange Document (MacBinary)","IIF",0,"M","2.16.00",476
+"application/vnd.shana.informed.package","Informed Package Document (MacBinary)","IPK",0,"M","2.16.00",477
+"application/vnd.smaf","Synthetic Music Mobile Application Sound","MMF",0,"M","2.10.00",877
+"application/vnd.sun.wadl+xml","Web Application Description Language","WADL","Y","H","2.16.00",2506
+"application/vnd.unity","Unity3d Environment","UNITYWEB",0,"M","2.16.00",486
+"application/vnd.visio","MS Visio 2 Document/Drawing/Shapes/Template","VSS, VSD, VST",0,"M","2.19.00",1132
+"application/vnd.visio","MS Visio 3/4 Document/Drawing/Shapes/Template","VSD, VSS, VST, VT","Y","H","2.26.00",1130
+"application/vnd.visio","MS Visio Report Definition","VRD",0,"H","2.15.00",2393
+"application/vnd.visio","MS Visio Shape Stream","VSH",0,"H","2.29.01",3964
+"application/vnd.visio","MS Visio Workspace File","VSW",0,"L","2.00.00",1133
+"application/vnd.wordperfect","WordPerfect Document (MacBinary)","DOC, WP, WKB, WPD, WPT, WP#",0,"M","2.16.00",1738
+"application/vnd.xara","Xara Web Document","WEB",0,"M","2.12.00",1141
+"application/wordperfect5.1","WordPerfect Document","DOC, WP, WKB, WPD, WPT, WP#","Y","M","2.25.00",157
+"application/wordperfect5.1","WordPerfect Document (MacBinary)","DOC, WP, WKB, WPD, WPT, WP#",0,"M","2.16.00",1738
+"application/wordperfect5.1","WordPerfect Document (OLE)","DOC","Y","M","2.30.00",3965
+"application/wsdl+xml","Web Service Description Language","WSDL",0,"H","2.15.00",2186
+"application/x-123","Jazz Worksheet",0,0,"M","2.31.00",4026
+"application/x-123","Lotus 123 Ver. 1 & 1A Worksheet","WKS",0,"M","1.00.00",106
+"application/x-123","Lotus 123 Ver. 2 / Symphony 1.1 Worksheet","WK1, WKS",0,"M","1.00.00",104
+"application/x-123","Lotus 123 Ver. 3 & 4 Worksheet","WK3, WK4, 123, 12M",0,"M","2.07.00",105
+"application/x-123","Lotus 123 Ver. 3 Format File","FM3",0,"M","2.07.00",1433
+"application/x-123","Lotus 123 Ver. 4 Format File","FMT",0,"M","2.07.00",1434
+"application/x-123","Symphony 1.0 Worksheet","WKS, WRK",0,"M","1.00.00",107
+"application/x-3ds","Ray Dream Studio Native Data Format","RDS, 3DS, D3D",0,"M","2.11.00",2006
+"application/x-abiword","AbiWord Document","ABW",0,"M","2.07.00",1516
+"application/x-abiword-compressed","AbiWord Compressed Document","ZABW, GZ",0,"M","2.22.00",1515
+"application/x-acad","AutoCAD Drawing","DWG",0,"M","2.03.06",26
+"application/x-ace","Ace Archive","ACE",0,"M","2.08.00",481
+"application/x-ami","AMI Professional Document / Styles","SAM, AMI, STY","Y","M","2.19.00",1027
+"application/x-ami","Lotus Word Pro 96/97 Document","LWP, MWP",0,"M","2.23.00",846
+"application/x-amidraw","Word Pro Graphic / AMI Draw Vector Image","SDW",0,"L","2.28.00",3822
+"application/x-amipro","AMI Professional Document / Styles","SAM, AMI, STY","Y","M","2.19.00",1027
+"application/x-arc","Arc Archive","ARC",0,"M","2.25.00",46
+"application/x-arc","PK Pak Archive","ARC, PAK",0,"M","2.25.00",20
+"application/x-archive","Compiler Library (COFF)","LIB, A, AR",0,"M","2.14.00",95
+"application/x-arj","Arj Archive","ARJ, A??, DSK",0,"M","2.14.00",21
+"application/x-asx","MS Windows Media Player Play List","ASX",0,"M","2.17.00",2602
+"application/x-autocad","AutoCAD Drawing Exchange (ASCII)","DXF",0,"M","2.03.18",73
+"application/x-autocad","AutoCAD Drawing Exchange(Binary)","DXF",0,"M","2.08.00",74
+"application/x-autocad_dwg","AutoCAD Drawing","DWG",0,"M","2.03.06",26
+"application/x-awk","Nawk Programming Languaget","NAWK, GAWK, AWK",0,"M","2.16.00",2408
+"application/x-bin","Binary Data File (Unknown Source)","BIN, BI",0,"L","1.05.00",380
+"application/x-binary","Binary Data File (Unknown Source)","BIN, BI",0,"L","1.05.00",380
+"application/x-binaryii","ShrinkIt Apple ][ Compressed Archive","BXY, BLU",0,"M","2.20.00",2368
+"application/x-bittorrent","BitTorrent Metainfo","TORRENT",0,"M","2.07.00",1403
+"application/x-brioquery","BrioQuery File","BQY",0,"M","2.20.00",2902
+"application/x-bz2","Bzip Archive V2","BZ, BZ2, TBV2",0,"M","2.19.00",1426
+"application/x-bzip","Bzip Archive V1","BZ",0,"M","2.14.00",2302
+"application/x-bzip2","Bzip Archive V2","BZ, BZ2, TBV2",0,"M","2.19.00",1426
+"application/x-caf","Composite Attachment File","CAF, DAF, EM, PM",0,"M","2.16.01",2509
+"application/x-cdf","Unidata NetCDF Graphic Image","CDF",0,"M","2.10.00",1923
+"application/x-cdr","Corel Draw Raster (Intel)","CDR, PAT, CDT","Y","H","2.15.03",241
+"application/x-cdr","Corel Draw Raster (Motorola)","CDR, PAT","Y","H","2.17.00",2597
+"application/x-cdt","Corel Draw Template","CDT",0,"H","2.07.00",612
+"application/x-chess-pgn","Portable Game Notation","PGN",0,"M","2.11.00",1988
+"application/x-cmx","Corel Metafile Exchange Image (Intel)","CMX, PAT, CDR",0,"H","2.25.00",631
+"application/x-cmx","Corel Metafile Exchange Img (Motorola)","CMX, PAT, CDR",0,"H","2.17.00",2279
+"application/x-compress","Gzip Unix Archive","GZ, Z, ?Z, ??Z, TAR",0,"M","2.28.00",44
+"application/x-compress","LHarc Compressed Archive","LHA, LZH, LHn, LZn, LHD, LZS",0,"M","2.22.00",50
+"application/x-compress","PMarc Archive","PMA",0,"M","2.22.00",3115
+"application/x-compress","UNIX Compress Archive","Z, TAZ, TGZ, GZ, GTAR",0,"M","2.07.00",1088
+"application/x-compressed","Ace Archive","ACE",0,"M","2.08.00",481
+"application/x-compressed","Arj Archive","ARJ, A??, DSK",0,"M","2.14.00",21
+"application/x-compressed","Bzip Archive V1","BZ",0,"M","2.14.00",2302
+"application/x-compressed","Bzip Archive V2","BZ, BZ2, TBV2",0,"M","2.19.00",1426
+"application/x-compressed","JAR Compressed Archive","JAR",0,"M","2.07.00",1430
+"application/x-compressed","JARCS Compressed Archive","JAR, J",0,"M","2.24.00",1431
+"application/x-compressed","Java Archive","JAR, ZIP, BASE, MZP","Y","M","2.12.01",1432
+"application/x-compressed","Java Pack200 Archive","JAR","Y","M","2.25.00",3419
+"application/x-compressed","LHarc Compressed Archive","LHA, LZH, LHn, LZn, LHD, LZS",0,"M","2.22.00",50
+"application/x-compressed","PKZip Archive","ZIP, JAR, WMZ","Y","M","2.33.00",12
+"application/x-compressed","PKZip Archive (Encrypted)","ZIP, JAR, WMZ","Y","H","2.23.00",3176
+"application/x-compressed","PMarc Archive","PMA",0,"M","2.22.00",3115
+"application/x-compressed","UNIX Compress Archive","Z, TAZ, TGZ, GZ, GTAR",0,"M","2.07.00",1088
+"application/x-coreldraw","Corel Draw Raster (Intel)","CDR, PAT, CDT","Y","H","2.15.03",241
+"application/x-coreldraw","Corel Draw Raster (Motorola)","CDR, PAT","Y","H","2.17.00",2597
+"application/x-corelxara","Xara Web Document","WEB",0,"M","2.12.00",1141
+"application/x-cpio","CPIO Archive","CPIO",0,"M","2.22.00",1427
+"application/x-cprplayer","Corel Presents Presentation","PQF, SHW, CPR","Y","H","2.27.00",634
+"application/x-csv","Comma Separated Values Text File","CAS, CSV, LOG","Y","H","2.31.02",451
+"application/x-da-chess-pgn","Portable Game Notation","PGN",0,"M","2.11.00",1988
+"application/x-dbf","dBase II Database","DBF","Y","H","2.30.04",3157
+"application/x-dbf","dBase III+/FoxBase+ Database (with memo)","DBF","Y","H","2.30.04",3150
+"application/x-dbf","dBase III/III+/IV/FoxBase+/FoxPro Database","DBF","Y","H","2.30.04",58
+"application/x-dbf","dBase IV Database","DBF","Y","H","2.30.04",3152
+"application/x-dbf","dBase IV Database (with memo)","DBF, BF","Y","H","2.30.04",3154
+"application/x-dbf","dBase IV Database (with SQL table)","DBF","Y","H","2.30.04",3155
+"application/x-dbf","dBase V Database","DBF","Y","H","2.30.04",3153
+"application/x-dbf","FlagShip Database (with memo)","DBF","Y","H","2.30.04",3156
+"application/x-dbf","FoxBase Database","DBF","Y","H","2.30.04",3151
+"application/x-dbf","FoxPro/RealMedia CD Tracks Database","DBF","Y","H","2.30.04",1349
+"application/x-dbf","MS Visual FoxPro Database","DBF, PJX, DBC","Y","H","2.30.04",2762
+"application/x-dbm","DataEase Database","DBM",0,"M","2.16.00",2427
+"application/x-dease","DataEase Database","DBM",0,"M","2.16.00",2427
+"application/x-debian-package","Debian Linux Package","DEB",0,"M","2.22.00",2407
+"application/x-desktop","KDE/GNOME Desktop Entry","DESKTOP",0,"M","2.25.00",3444
+"application/x-director","Macromedia Director File (Intel)","DCR",0,"H","2.30.02",3970
+"application/x-director","Macromedia Director File (Macintosh)","DCR",0,"H","2.30.00",285
+"application/x-director","Macromedia Director Movie","DIR",0,"M","2.03.06",526
+"application/x-director","Macromedia Director Movie (Intel)","DXR, CXT, DIR",0,"M","2.04.00",271
+"application/x-director","Macromedia Director Movie (MacBinary)","DIR",0,"M","2.09.00",1752
+"application/x-director","Macromedia Director Movie (Macintosh)","DXR, CXT, DIR",0,"H","2.25.00",169
+"application/x-director","Shockwave Audio","SWA",0,"M","2.07.00",1084
+"application/x-dos-exe","DOS Program","EXE, COM, SYS, OVL","Y","M","1.00.00",15
+"application/x-dpkg","Debian Linux Package","DEB",0,"M","2.22.00",2407
+"application/x-dvb","AutoCAD VBA Macro","DVB","Y","H","2.27.00",3624
+"application/x-dvi","TeX Device Independent Document","DVI",0,"M","2.25.00",1830
+"application/x-dwf","AutoDesk Web Graphics Image","DWF",0,"M","2.10.00",692
+"application/x-dwg","AutoCAD Drawing","DWG",0,"M","2.03.06",26
+"application/x-dxb","AutoCAD Drawing Exchange Binary","DXB, ACAD",0,"M","2.08.00",75
+"application/x-dxf","AutoCAD Drawing Exchange (ASCII)","DXF",0,"M","2.03.18",73
+"application/x-dxf","AutoCAD Drawing Exchange(Binary)","DXF",0,"M","2.08.00",74
+"application/x-ebo","MS Reader Ebook (EBO)","EBO",0,"M","2.07.00",1482
+"application/x-eet","Eet Archive","EET",0,"M","2.16.00",2437
+"application/x-efe","Ensoniq EPS Instrument","EFE",0,"M","2.15.00",696
+"application/x-elc","Emacs/XEmacs Byte-Compiled Lisp","ELC",0,"M","2.26.00",3537
+"application/x-emf","MS Windows Enhanced Metafile","EMF, TMP, WMF",0,"M","2.07.00",702
+"application/x-enable-spreadsheet","Enable Spreadsheet","SSF",0,"M","2.20.00",1081
+"application/x-endnote-connect","EndNote Connection File","ENZ",0,"M","2.10.00",1845
+"application/x-endnote-connection","EndNote Connection File","ENZ",0,"M","2.10.00",1845
+"application/x-envoy","Envoy Document","EVY, ENV",0,"M","2.07.00",251
+"application/x-excel","Comma Separated Values Text File","CAS, CSV, LOG","Y","H","2.31.02",451
+"application/x-excel","MS Excel Spreadsheet (MacBinary)","XLS",0,"M","2.28.00",1766
+"application/x-excel","MS Excel Worksheet/Template (OLE)","XLS, XLA, XLT, XLB, WWS, XLM","Y","H","2.29.01",111
+"application/x-exe","DOS Program","EXE, COM, SYS, OVL","Y","M","1.00.00",15
+"application/x-exe","MS Windows .NET Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2682
+"application/x-exe","MS Windows .NET Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2683
+"application/x-exe","MS Windows Driver (16 bit)","EXE, VXD, SYS, DRV, 386","Y","H","2.03.10",290
+"application/x-exe","MS Windows Program (16 bit)","EXE, MOD, BIN","Y","H","2.03.10",288
+"application/x-exe","MS Windows Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.03.10",77
+"application/x-exe","MS Windows Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2681
+"application/x-exe","MS Windows Program (WIN386)","EXE",0,"H","2.03.10",289
+"application/x-fm","FrameMaker Book","FM, FRM",0,"M","2.20.00",2898
+"application/x-font","X-Windows Portable Compiled Font","PCF",0,"M","2.13.02",2211
+"application/x-fractals","Fractal Image File","FIF",0,"M","2.28.00",725
+"application/x-frame","FrameMaker Dictionary",0,0,"M","2.16.00",2409
+"application/x-frame","FrameMaker Document","FM, FRM",0,"M","2.04.01",730
+"application/x-frame","FrameMaker Interchange File","MIF",0,"M","2.06.00",872
+"application/x-frame","FrameMaker Screen Font",0,0,"M","2.16.00",2410
+"application/x-framemaker","FrameMaker Book","FM, FRM",0,"M","2.20.00",2898
+"application/x-framemaker","FrameMaker Document","FM, FRM",0,"M","2.04.01",730
+"application/x-framemaker","FrameMaker Interchange File","MIF",0,"M","2.06.00",872
+"application/x-freelance","Lotus Freelance Graphics 97 File","PRZ, DGM, SMC, MAS, SYM, PRE, BW, PAL",0,"M","2.28.00",976
+"application/x-freelance","Lotus Freelance Graphics Smartmaster Look","MAS",0,"H","2.19.00",858
+"application/x-futuresplash","Shockwave Flash Object","SWF, SPL","Y","H","2.25.00",429
+"application/x-gawk","Nawk Programming Languaget","NAWK, GAWK, AWK",0,"M","2.16.00",2408
+"application/x-gca-compressed","G Compressed Archive","GCA",0,"M","2.08.00",1604
+"application/x-gdbm","GNU Database Manager File","GDBM",0,"M","2.16.00",2426
+"application/x-glulx","Glulx Game Data","ULX",0,"M","2.24.00",3356
+"application/x-glulx","Glulx Game Data (MacBinary)","ULX",0,"M","2.24.00",3357
+"application/x-gnome-app-info","KDE/GNOME Desktop Entry","DESKTOP",0,"M","2.25.00",3444
+"application/x-gsp","Geometer's Sketchpad Document","GSP",0,"M","2.28.00",3782
+"application/x-gsS","Geometer's Sketchpad Script","GSS",0,"M","2.28.00",3783
+"application/x-gtar","UNIX Compress Archive","Z, TAZ, TGZ, GZ, GTAR",0,"M","2.07.00",1088
+"application/x-gzip","Gzip Unix Archive","GZ, Z, ?Z, ??Z, TAR",0,"M","2.28.00",44
+"application/x-gzip","MIME Base64 Archive","B64",0,"M","2.09.01",482
+"application/x-hbs-vcs","Virtual Calendar File","VCS, ICS",0,"M","2.18.00",2072
+"application/x-hdf","Hierarchical Data Format File (v4)","HDF",0,"M","2.10.00",775
+"application/x-hdf","Hierarchical Data Format File (v5)","HDF, HE5",0,"M","2.16.00",2411
+"application/x-hgl","HP Graphics Language Drawing","HGL, HPGL, PLT, HPG",0,"M","2.28.00",778
+"application/x-hgl","HP Graphics Language Drawing (PJL)","HPGL, HGL, PLT","Y","H","2.06.03",841
+"application/x-hrf","Hitachi Raster Format Image","HRF",0,"M","2.08.00",1653
+"application/x-httpd-eperl","Perl-Parsed HTML","PHTML",0,"L","2.00.00",944
+"application/x-httpd-php","Personal Home Page Script","PHP, PHP3, PHP4, PH3, PH4",0,"M","2.15.01",2403
+"application/x-hwp","Hangul Word Processor Document","HWP",0,"M","2.19.00",2756
+"application/x-ica","Citrix Independent Computer Architecture File","ICA",0,"M","2.17.00",787
+"application/x-ichitaro4","Ichitaro Document","JTD",0,"M","2.16.00",2436
+"application/x-ichitaro4","Ichitaro Document (OLE)","JTD","Y","H","2.27.00",3644
+"application/x-ichitaro5","Ichitaro Document","JTD",0,"M","2.16.00",2436
+"application/x-ichitaro5","Ichitaro Document (OLE)","JTD","Y","H","2.27.00",3644
+"application/x-ichitaro6","Ichitaro Document","JTD",0,"M","2.16.00",2436
+"application/x-ichitaro6","Ichitaro Document (OLE)","JTD","Y","H","2.27.00",3644
+"application/x-ico","MS Windows Icon","ICO","Y","H","2.24.00",114
+"application/x-iff","Amiga Contiguous Bitmap","ACBM","Y","H","2.18.00",2629
+"application/x-iff","Amiga IFF/8SVX Sound","SND, IFF, LBM, 8SV, SVX, 8SVX","Y","H","1.00.00",25
+"application/x-iff","Amiga Interchange File Format Image","LBM, IFF, ILM, BBM, ILBM, BLK","Y","H","2.25.00",6
+"application/x-iff","Interchange File Format","IFF","Y","H","2.07.00",233
+"application/x-iges","Initial Graphics Exchange Specification","IGES, IGS",0,"M","2.26.01",795
+"application/x-imagemagick-image","Machine Independent File Format Image","MIFF, MIF",0,"M","2.18.00",873
+"application/x-img","GEM VDI Paint Image","IMG, GEM","Y","M","2.25.00",9
+"application/x-iso","ISO 9660 CD-ROM Image (Data Mode 1)","ISO",0,"M","2.07.00",803
+"application/x-iso","IsoBuster CD/DVD Image","IBP",0,"M","2.28.00",3811
+"application/x-iso9660-image","ISO 9660 CD-ROM Image (Data Mode 1)","ISO",0,"M","2.07.00",803
+"application/x-iso9660-image","IsoBuster CD/DVD Image","IBP",0,"M","2.28.00",3811
+"application/x-java","Java Class (Compiled)","CLASS, CLA, CLS",0,"M","2.03.09",343
+"application/x-java-archive","Java Archive","JAR, ZIP, BASE, MZP","Y","M","2.12.01",1432
+"application/x-java-class","Java Class (Compiled)","CLASS, CLA, CLS",0,"M","2.03.09",343
+"application/x-java-pack200","Java Pack200 Archive","JAR","Y","M","2.25.00",3419
+"application/x-java-serialized-object","Java Serialized Object","SER",0,"M","2.12.03",440
+"application/x-javascript","Java Script Source Code File","JS, ASP, HTM, HTML, HTT, HTC, ASPX, ASCX",0,"H","2.23.01",401
+"application/x-javascript","Web Script Source Code","JS, ASP, HTM, HTML, HT?, INC, AS?X, BAS",0,"M","2.23.01",3319
+"application/x-kdelnk","KDE Configuration",0,0,"M","2.16.00",2429
+"application/x-kdelnk","KDE Desktop Entry",0,0,"M","2.16.00",2428
+"application/x-keychain_access","PKCS #7 Secure MIME Message","P7M, EML, TXT",0,"M","2.22.01",1810
+"application/x-keychain_access","PKCS Certificate / Digital ID","P7C, P10, P12, P7B",0,"L","2.00.00",924
+"application/x-Kidspiration","Kidspiration Document","KID",0,"M","2.29.00",3875
+"application/x-lha","Larc Archive","LZS, LZH",0,"M","1.00.00",52
+"application/x-lha","LHarc Compressed Archive","LHA, LZH, LHn, LZn, LHD, LZS",0,"M","2.22.00",50
+"application/x-lha","PMarc Archive","PMA",0,"M","2.22.00",3115
+"application/x-lharc","LHarc Compressed Archive","LHA, LZH, LHn, LZn, LHD, LZS",0,"M","2.22.00",50
+"application/x-lharc","PMarc Archive","PMA",0,"M","2.22.00",3115
+"application/x-lotus-notes","Lotus Notes Database Storage Facility","NS2, NSF, NTF, NDL, NS#, NSG, NSH",0,"M","2.13.05",900
+"application/x-lwp","Lotus Word Pro 96/97 Document","LWP, MWP",0,"M","2.23.00",846
+"application/x-lzh","LHarc Compressed Archive","LHA, LZH, LHn, LZn, LHD, LZS",0,"M","2.22.00",50
+"application/x-lzh","PMarc Archive","PMA",0,"M","2.22.00",3115
+"application/x-lzip","Lzip Cmopressed Archive",0,0,"M","2.25.00",3422
+"application/x-lzop","lzop Compressed Archive","LZO",0,"M","2.08.00",1615
+"application/x-lzx","LZX Archive","LZX",0,"M","2.29.00",471
+"application/x-maker","FrameMaker Book","FM, FRM",0,"M","2.20.00",2898
+"application/x-maker","FrameMaker Document","FM, FRM",0,"M","2.04.01",730
+"application/x-maker","FrameMaker Interchange File","MIF",0,"M","2.06.00",872
+"application/x-mathcad","MathCaD Document","MCD",0,"M","2.10.00",1898
+"application/x-mcad","MathCaD Document","MCD",0,"M","2.10.00",1898
+"application/x-midi","Midi Sequencer Music (MacBinary)","MID",0,"M","2.09.00",1794
+"application/x-midi","Standard Midi Sequencer Music","MID, MDI, RMI, SMF, MIDI","Y","H","2.07.00",240
+"application/x-mif","FrameMaker Interchange File","MIF",0,"M","2.06.00",872
+"application/x-mif","Machine Independent File Format Image","MIFF, MIF",0,"M","2.18.00",873
+"application/x-mime","Internet Message (MIME)","EML, TXT, MHT, MIM, MME, MIME, MSG","Y","H","2.22.01",1262
+"application/x-mmjb-mmz","MusicMatch Theme File","MMZ",0,"M","2.10.00",1129
+"application/x-mpp","MS Project File","MPP, MPT","Y","H","2.26.00",348
+"application/x-ms-access","MS Access Database/Template/Addition","MDB, MDT, MDA, MDE, DPM, WCD, MDW, SBC",0,"M","2.11.00",330
+"application/x-ms-exchange","MS Exchange Shortcut/Link","XNK",0,"M","2.22.00",1164
+"application/x-ms-powerpoint","MS PowerPoint Slides (MacBinary)","PPT, PPA, POT, PPS",0,"M","2.28.00",1758
+"application/x-ms-powerpoint","MS PowerPoint Slides (OLE)","PPT, PPA, POT, PPS","Y","H","2.30.04",164
+"application/x-ms-reader","MS Reader Ebook (LIT)","LIT",0,"M","2.10.00",1892
+"application/x-ms-shortcut","MS Windows Shortcut/Link","LNK",0,"M","2.14.00",314
+"application/x-msaccess","MS Access Database","MDE",0,"L","2.00.00",865
+"application/x-msaccess","MS Access Database/Template/Addition","MDB, MDT, MDA, MDE, DPM, WCD, MDW, SBC",0,"M","2.11.00",330
+"application/x-mscardfile","MS Windows Card File (Win 3.x)","CRD",0,"M","2.14.00",2321
+"application/x-mscardfile","MS Windows Card File (Win NT)","CRD","Y","M","2.25.00",117
+"application/x-msclip","MS Windows Clipboard/Picture","CLP",0,"M","2.08.00",196
+"application/x-msdos-program","DOS Program","EXE, COM, SYS, OVL","Y","M","1.00.00",15
+"application/x-msdos-windows","MS Windows .NET Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2682
+"application/x-msdos-windows","MS Windows .NET Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2683
+"application/x-msdos-windows","MS Windows Driver (16 bit)","EXE, VXD, SYS, DRV, 386","Y","H","2.03.10",290
+"application/x-msdos-windows","MS Windows Program (16 bit)","EXE, MOD, BIN","Y","H","2.03.10",288
+"application/x-msdos-windows","MS Windows Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.03.10",77
+"application/x-msdos-windows","MS Windows Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2681
+"application/x-msdos-windows","MS Windows Program (WIN386)","EXE",0,"H","2.03.10",289
+"application/x-msdownload","Absolute Packager Self Extracting Archive","EXE, ZIP",0,"M","2.10.01",1971
+"application/x-msdownload","Arc 6.0 MKS Archive","EXE",0,"M","1.00.00",82
+"application/x-msdownload","Arj Self Extracting Archive","EXE",0,"M","1.00.00",76
+"application/x-msdownload","Binary Data File (Unknown Source)","BIN, BI",0,"L","1.05.00",380
+"application/x-msdownload","DOS Program","EXE, COM, SYS, OVL","Y","M","1.00.00",15
+"application/x-msdownload","DOS Program (Tiny)","COM, BIN, SYS","Y","M","2.32.02",30
+"application/x-msdownload","Larc Self Extracting Archive","COM",0,"M","1.00.00",35
+"application/x-msdownload","Larc Self Extracting Archive","EXE",0,"M","1.00.00",78
+"application/x-msdownload","LHarc Self Extracting Archive","COM, EXE",0,"M","1.00.00",36
+"application/x-msdownload","LHarc Self Extracting Archive","EXE",0,"M","1.00.00",80
+"application/x-msdownload","LZexe Self Extracting Archive","EXE",0,"M","1.00.00",79
+"application/x-msdownload","MS Windows .NET Library (32 bit)","DLL, TLB, OCX, CPL, HX?","Y","H","2.18.00",2686
+"application/x-msdownload","MS Windows .NET Library (64 bit)","DLL, TLB, OCX, CPL, HX?","Y","H","2.18.00",2685
+"application/x-msdownload","MS Windows .NET Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2682
+"application/x-msdownload","MS Windows .NET Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2683
+"application/x-msdownload","MS Windows Driver (16 bit)","DRV, DLL, VBX","Y","H","2.03.10",292
+"application/x-msdownload","MS Windows Driver (16 bit)","EXE, VXD, SYS, DRV, 386","Y","H","2.03.10",290
+"application/x-msdownload","MS Windows Library (16 bit)","DLL, DRV, VBX, EXE","Y","H","2.03.10",291
+"application/x-msdownload","MS Windows Library (32 bit)","DLL, TLB, OCX, CPL, HX?","Y","H","2.03.10",325
+"application/x-msdownload","MS Windows Library (64 bit)","DLL, TLB, OCX, CPL, HX?","Y","H","2.18.00",2684
+"application/x-msdownload","MS Windows Program (16 bit)","EXE, MOD, BIN","Y","H","2.03.10",288
+"application/x-msdownload","MS Windows Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.03.10",77
+"application/x-msdownload","MS Windows Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2681
+"application/x-msdownload","MS Windows Program (WIN386)","EXE",0,"H","2.03.10",289
+"application/x-msdownload","PECompact2 Compressed Executable","EXE",0,"M","2.22.00",3159
+"application/x-msdownload","Petite Compressed Executable","EXE",0,"M","2.22.00",3160
+"application/x-msdownload","PK Arc Self Extracting Archive","EXE",0,"M","1.00.00",81
+"application/x-msdownload","PKZip Self Extracting Archive","EXE, ZIP","Y","M","1.00.00",283
+"application/x-msdownload","UPX Compressed Executable","EXE",0,"M","2.22.00",3158
+"application/x-msdownload","WinZip Self Extracting Archive","EXE, ZIP",0,"M","2.09.02",584
+"application/x-msexcel","MS Excel Worksheet/Template (OLE)","XLS, XLA, XLT, XLB, WWS, XLM","Y","H","2.29.01",111
+"application/x-msmediaview","Microsoft Multimedia Viewer File","MVB",0,"L","2.00.00",888
+"application/x-msmetafile","MS Windows Metafile (placeable)","WMF, APM",0,"M","2.19.00",230
+"application/x-msmoney","MS Money Data","MNY, MN?",0,"M","1.00.00",45
+"application/x-mspowerpoint","MS PowerPoint Slides (MacBinary)","PPT, PPA, POT, PPS",0,"M","2.28.00",1758
+"application/x-mspowerpoint","MS PowerPoint Slides (OLE)","PPT, PPA, POT, PPS","Y","H","2.30.04",164
+"application/x-msproj","MS Project File","MPP, MPT","Y","H","2.26.00",348
+"application/x-msproject","MS Project File","MPP, MPT","Y","H","2.26.00",348
+"application/x-mspublisher","MS Publisher Document","PUB",0,"H","2.28.00",1356
+"application/x-msschedule","MS Schedule+ Schedule","SC2, SCD",0,"L","2.00.00",1031
+"application/x-msterminal","MS Terminal File","TRM",0,"M","2.03.06",1098
+"application/x-msworks","MS Works Spreadsheet (OLE)","WLR","Y","H","2.18.00",2625
+"application/x-msworks","MS Works Spreadsheet 2 for Mac","SS2, SS",0,"M","2.21.00",3010
+"application/x-msworks","MS Works Spreadsheet 2 for Windows/DOS","WKS",0,"M","2.21.00",3007
+"application/x-msworks","MS Works Spreadsheet 3 for Mac","SS3, SS",0,"M","2.21.00",3011
+"application/x-msworks","MS Works Spreadsheet for DOS","WKS",0,"M","2.21.00",2125
+"application/x-msworks-db","MS Works Database (MacBinary)","WDB",0,"M","2.09.00",1740
+"application/x-msworks-db","MS Works Database (OLE)","WDB, DB","Y","H","2.27.00",567
+"application/x-msworks-db","MS Works Database 2 for Windows/DOS","WDB",0,"M","2.21.00",3005
+"application/x-msworks-db","MS Works Database 3 for Windows","WDB",0,"M","2.28.00",3006
+"application/x-msworks-wp","MS Works for DOS Document","WPS, WWP","Y","H","2.28.00",134
+"application/x-msworks-wp","MS Works for Mac 2 Document","WP2",0,"M","2.19.00",2759
+"application/x-msworks-wp","MS Works for Mac 3 Document","WP",0,"M","2.19.00",2758
+"application/x-msworks-wp","MS Works for Mac 4 Database/Doc/Sheet (OLE)","DB4, WP4, SS4","Y","H","2.19.00",2757
+"application/x-msworks-wp","MS Works for Windows 3 Document (OLE)","WPS, WWP","Y","H","2.19.00",2624
+"application/x-mswrite","MS Write / Word Backup","WRI, WBK, TMP, DOC","Y","H","2.17.00",1136
+"application/x-mswrite","MS Write Document","WRI","Y","H","1.00.00",215
+"application/x-myriad-music","Harmony Assistant Melody","MYR",0,"M","2.31.00",4040
+"application/x-nawk","Nawk Programming Languaget","NAWK, GAWK, AWK",0,"M","2.16.00",2408
+"application/x-netcdf","Unidata NetCDF Graphic Image","CDF",0,"M","2.10.00",1923
+"application/x-newton-compatible-pkg","Newton PDA Package Archive",0,0,"M","2.23.00",3205
+"application/x-nwc","Noteworthy Composer Song","NWC",0,"M","2.17.00",904
+"application/x-obak","MS Reader Ebook (LIT)","LIT",0,"M","2.10.00",1892
+"application/x-ofr","OptimFROG Encoded Audio","OFR",0,"M","2.09.00",1719
+"application/x-ogg","OGG FLAC Compressed Audio","OGG",0,"M","2.24.00",2922
+"application/x-ogg","OGG Vorbis Compressed Audio","OGG, OGA",0,"M","2.24.00",1537
+"application/x-ogg","OGG Vorbis Compressed Audio (MacBinary)","OGG",0,"M","2.16.00",2451
+"application/x-ole-storage","MS Windows Installer Package / Wizard","MSI, MST, DAT, MSM, WID, WIM","Y","H","2.24.00",1211
+"application/x-orgplus","OrgPlus Organization Chart","OPX",0,"M","2.17.00",915
+"application/x-PageMaker","PageMaker 3.0 Document","PM3",0,"M","1.00.00",131
+"application/x-palmpilot","Palm OS Application",0,0,"M","2.23.00",3278
+"application/x-pando","Pando Package","PANDO",0,"M","2.32.00",4086
+"application/x-pcf","X-Windows Portable Compiled Font","PCF",0,"M","2.13.02",2211
+"application/x-pdf","Adobe Portable Document Format","PDF","Y","H","2.31.00",258
+"application/x-pdf","Adobe Portable Document Format (PDF/A)","PDF","Y","H","2.31.02",4065
+"application/x-pdf","Adobe Portable Document Format (PDF/A-1a)","PDF","Y","H","2.31.02",4062
+"application/x-pdf","Adobe Portable Document Format (PDF/A-1b)","PDF","Y","H","2.31.02",4063
+"application/x-pdf","Adobe Portable Document Format (PDF/X)","PDF","Y","H","2.31.02",4064
+"application/x-perfmon","MS Windows Performance Monitor Chart","PMC",0,"M","2.13.00",2156
+"application/x-perfmon","MS Windows Performance Monitor Log","PML",0,"M","2.33.00",4120
+"application/x-perfmon","MS Windows Performance Monitor Workspace","PMW",0,"M","2.28.00",3815
+"application/x-perl","Perl Application","PL",0,"M","2.16.00",955
+"application/x-pgl","HP Plotter Language Drawing","PGL, HPGL",0,"M","2.23.00",941
+"application/x-pgp","Pretty Good Privacy Encrypted Data",0,0,"M","2.16.00",2435
+"application/x-pgp","Pretty Good Privacy Key/Signature/Data","PGP",0,"M","2.16.00",942
+"application/x-pgp-keyring","Pretty Good Privacy (PGP) Private Keyring","SKA, SKR",0,"M","2.07.00",1066
+"application/x-pgp-keyring","Pretty Good Privacy Public Keyring","PKR",0,"M","2.16.00",1452
+"application/x-pgp-plugin","Pretty Good Privacy Key/Signature/Data","PGP",0,"M","2.16.00",942
+"application/x-php","Personal Home Page Script","PHP, PHP3, PHP4, PH3, PH4",0,"M","2.15.01",2403
+"application/x-pkcs12","PKCS Certificate / Digital ID","P7C, P10, P12, P7B",0,"L","2.00.00",924
+"application/x-pkcs7-certificate","PKCS Certificate / Digital ID","P7C, P10, P12, P7B",0,"L","2.00.00",924
+"application/x-pkcs7-mime","PKCS #7 Secure MIME Message","P7M, EML, TXT",0,"M","2.22.01",1810
+"application/x-pkcs7-mime","PKCS Certificate / Digital ID","P7C, P10, P12, P7B",0,"L","2.00.00",924
+"application/x-pkcs7-signature","CrossePAC Compressed Archive","PAC",0,"M","2.06.00",1362
+"application/x-png","Portable Network Graphics Bitmap","PNG","Y","H","2.23.00",965
+"application/x-powerpoint","MS PowerPoint Slides (MacBinary)","PPT, PPA, POT, PPS",0,"M","2.28.00",1758
+"application/x-powerpoint","MS PowerPoint Slides (OLE)","PPT, PPA, POT, PPS","Y","H","2.30.04",164
+"application/x-preview","OS/2 Bitmap Graphic Array","BGA",0,"M","2.07.00",1542
+"application/x-qif","Quicken Interchange Format","QIF",0,"M","2.17.00",993
+"application/x-qpro","QuattroPro Spreadsheet","WB1, WB2, WB3",0,"M","2.09.00",1135
+"application/x-quark-express","Quark XPress Document (MacBinary)","QXD",0,"M","2.16.00",1764
+"application/x-quark-express","Quark XPress Document/Template (English,Intel)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1000
+"application/x-quark-express","Quark XPress Document/Template (English,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1439
+"application/x-quark-express","Quark XPress Document/Template (Korean,Intel)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3112
+"application/x-quark-express","Quark XPress Document/Template (Korean,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3113
+"application/x-quark-xpress-3","Quark XPress Document/Template (English,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1439
+"application/x-quark-xpress-3","Quark XPress Document/Template (Korean,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3113
+"application/x-quarkxpress","Quark XPress Document (MacBinary)","QXD",0,"M","2.16.00",1764
+"application/x-quarkxpress","Quark XPress Document/Template (English,Intel)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1000
+"application/x-quarkxpress","Quark XPress Document/Template (English,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.13.00",1439
+"application/x-quarkxpress","Quark XPress Document/Template (Korean,Intel)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3112
+"application/x-quarkxpress","Quark XPress Document/Template (Korean,Motorola)","QXD, QXT, QWD, QWT, QXL, QXB",0,"M","2.22.00",3113
+"application/x-quattro-pro","QuattroPro Spreadsheet","WB1, WB2, WB3",0,"M","2.09.00",1135
+"application/x-quattro-win","QuattroPro Spreadsheet","WB1, WB2, WB3",0,"M","2.09.00",1135
+"application/x-quattro-win","QuattroPro Spreadsheet","WB1, WB2, WB3",0,"M","2.09.00",1135
+"application/x-quattropro","QuattroPro Spreadsheet","WB1, WB2, WB3",0,"M","2.09.00",1135
+"application/x-rar","RAR Compressed Archive","RAR, Rnn, Snn",0,"M","2.08.00",1252
+"application/x-rar","RAR Self Extracting Archive","EXE",0,"M","2.22.00",3164
+"application/x-rar-compressed","RAR Compressed Archive","RAR, Rnn, Snn",0,"M","2.08.00",1252
+"application/x-rar-compressed","RAR Self Extracting Archive","EXE",0,"M","2.22.00",3164
+"application/x-ras","Sun Raster Image","RAS, RAST, SUN, SR, SCR, RS, SRS","Y","M","2.25.00",206
+"application/x-redhat-packet-manager","Red Hat Package Manager Archive","RPM",0,"M","2.07.00",1019
+"application/x-redhat-packet-manager","Red Hat Package Manager Archive Delta","RPM",0,"M","2.27.00",3701
+"application/x-rocketbook","RocketEdition eBook","RB",0,"M","2.11.00",2003
+"application/x-rpm","Red Hat Package Manager Archive","RPM",0,"M","2.07.00",1019
+"application/x-rpm","Red Hat Package Manager Archive Delta","RPM",0,"M","2.27.00",3701
+"application/x-rps","Reason Song","RPS",0,"M","2.25.00",1724
+"application/x-rtsp","PureVoice Audio","QCP","Y","M","2.25.00",1090
+"application/x-sam","AMI Professional Document / Styles","SAM, AMI, STY","Y","M","2.19.00",1027
+"application/x-scm","ScreenCam Movie","SCM",0,"M","2.12.00",2109
+"application/x-screencam","ScreenCam Movie","SCM",0,"M","2.12.00",2109
+"application/x-sdw","Word Pro Graphic / AMI Draw Vector Image","SDW",0,"L","2.28.00",3822
+"application/x-sh","Python Tkinter / UNIX Shell Script","PY, PYC, TCL, SH, PL",0,"M","2.16.00",987
+"application/x-shell","UNIX Shell Archive","SHAR",0,"M","2.14.00",2311
+"application/x-shellscript","Python Tkinter / UNIX Shell Script","PY, PYC, TCL, SH, PL",0,"M","2.16.00",987
+"application/x-shockwave-flash","Shockwave Flash Object","SWF, SPL","Y","H","2.25.00",429
+"application/x-shockwave-flash","Shockwave Flash Object (MacBinary)","SWF",0,"M","2.09.00",1759
+"application/x-shockwave-flash2","Shockwave Flash Object","SWF, SPL","Y","H","2.25.00",429
+"application/x-sit","StuffIt Apple ][ Archive","SIT",0,"M","2.29.00",3926
+"application/x-sit","StuffIt Mac Archive","SIT, BIN, SITX, DAT",0,"M","2.29.00",262
+"application/x-sit","StuffIt Mac Archive (MacBinary)","SIT, BIN",0,"M","2.09.00",1757
+"application/x-sld","AutoCAD Slide File","SLD",0,"M","2.11.00",1069
+"application/x-smaf","Synthetic Music Mobile Application Sound","MMF",0,"M","2.10.00",877
+"application/x-soffice","Impress Presentation / Template","SDD, VOR","Y","H","2.17.02",2540
+"application/x-soffice","StarCalc Spreadsheet / Template","SDC, VOR","Y","H","2.27.00",2607
+"application/x-soffice","StarDraw Image / Template","SDA, VOR","Y","H","2.17.02",2608
+"application/x-soffice","StarMath Formula","SMF","Y","H","2.17.02",2541
+"application/x-soffice","StarWriter Document / Template","SDW, VOR","Y","H","2.27.00",1052
+"application/x-soundapp","OctaMED Compressed Tracker Module","MED, MMD",0,"M","2.24.00",3387
+"application/x-soundapp","OctaMED Tracker Module","MMD, MED",0,"M","1.00.00",318
+"application/x-soundapp","Oktalyzer Tracker Music Module","OKT",0,"M","2.14.00",910
+"application/x-spectrum-tap","ZX Spectrum Tape File","TAP",0,"M","2.11.00",2053
+"application/x-spx","Speex Encoded Audio","SPX",0,"M","2.24.00",1727
+"application/x-staroffice","Impress Presentation / Template","SDD, VOR","Y","H","2.17.02",2540
+"application/x-staroffice","StarCalc Spreadsheet / Template","SDC, VOR","Y","H","2.27.00",2607
+"application/x-staroffice","StarDraw Image / Template","SDA, VOR","Y","H","2.17.02",2608
+"application/x-staroffice","StarMath Formula","SMF","Y","H","2.17.02",2541
+"application/x-staroffice","StarWriter Document / Template","SDW, VOR","Y","H","2.27.00",1052
+"application/x-step","CATIA ISO-10303 STEP Product Data","STEP, STP",0,"M","2.26.01",3607
+"application/x-stuffit","MIME Base64 Archive","B64",0,"M","2.09.01",482
+"application/x-stuffit","StuffIt Apple ][ Archive","SIT",0,"M","2.29.00",3926
+"application/x-stuffit","StuffIt Mac Archive","SIT, BIN, SITX, DAT",0,"M","2.29.00",262
+"application/x-stuffit","StuffIt Mac Archive (MacBinary)","SIT, BIN",0,"M","2.09.00",1757
+"application/x-supercalc5","SuperCalc Worksheet","CAL",0,"M","2.19.00",2777
+"application/x-svr4-package","SysV R4 PKG Datastreams","PKG",0,"M","2.16.00",2431
+"application/x-swriter","StarWriter Document / Template","SDW, VOR","Y","H","2.27.00",1052
+"application/x-tads","Text Adventure Development System Game Data","GAM",0,"M","2.23.00",1486
+"application/x-tads","Text Adventure Development System Game Resources","GAM",0,"M","2.23.00",3180
+"application/x-tads","Text Adventure Development System Saved Game","GAM",0,"M","2.23.00",3181
+"application/x-tajima","Orchida Home Embroidery Image","DST",0,"M","2.09.00",685
+"application/x-tar","GNU TAR Archive","TAR",0,"M","2.14.00",2313
+"application/x-tar","MIME Base64 Archive","B64",0,"M","2.09.01",482
+"application/x-tar","Opengroup/POSIX TAR Archive","TAR",0,"M","2.22.00",2314
+"application/x-tar","Tape Archive File","TAR",0,"M","2.23.01",1087
+"application/x-tbook","Toolbook Database","TBK, SBK",0,"M","2.11.00",250
+"application/x-tcl","Python Tkinter / UNIX Shell Script","PY, PYC, TCL, SH, PL",0,"M","2.16.00",987
+"application/x-tex","Corel Draw Texture","TEX",0,"M","2.10.00",1401
+"application/x-textedit","DOS Batch File","BAT, CMD",0,"M","2.15.00",22
+"application/x-toolbook","Toolbook Database","TBK, SBK",0,"M","2.11.00",250
+"application/x-troff-man","Manual Page Output","MAN",0,"L","2.00.00",855
+"application/x-troff-man-compressed","Manual Page Output","MAN",0,"L","2.00.00",855
+"application/x-troff-msvideo","MS Audio/Visual Interleave (Intel)","AVI, VFW, DA2","Y","H","2.11.00",234
+"application/x-troff-msvideo","MS Audio/Visual Interleave (Motorola)","AVI, VFW","Y","H","2.17.00",2599
+"application/x-usrpilot","Palm OS Application",0,0,"M","2.23.00",3278
+"application/x-visio","MS Visio 2 Document/Drawing/Shapes/Template","VSS, VSD, VST",0,"M","2.19.00",1132
+"application/x-visio","MS Visio 3/4 Document/Drawing/Shapes/Template","VSD, VSS, VST, VT","Y","H","2.26.00",1130
+"application/x-visio","MS Visio Report Definition","VRD",0,"H","2.15.00",2393
+"application/x-visio","MS Visio Shape Stream","VSH",0,"H","2.29.01",3964
+"application/x-visio","MS Visio Workspace File","VSW",0,"L","2.00.00",1133
+"application/x-visio.drawing","MS Visio 3/4 Document/Drawing/Shapes/Template","VSD, VSS, VST, VT","Y","H","2.26.00",1130
+"application/x-visiotech","MS Visio 2 Document/Drawing/Shapes/Template","VSS, VSD, VST",0,"M","2.19.00",1132
+"application/x-visiotech","MS Visio Shape Stream","VSH",0,"H","2.29.01",3964
+"application/x-visiotech","MS Visio Workspace File","VSW",0,"L","2.00.00",1133
+"application/x-vnd.fpx","FlashPix Bitmap","FPX, CPX, FMP","Y","H","2.26.00",740
+"application/x-vnd.fpx","FlashPix Bitmap (MacBinary)","FPX, CPX, FMP",0,"M","2.16.00",512
+"application/x-vnd.lotus-amipro","AMI Professional Document / Styles","SAM, AMI, STY","Y","M","2.19.00",1027
+"application/x-vnd.lotus-wordpro","AMI Professional Document / Styles","SAM, AMI, STY","Y","M","2.19.00",1027
+"application/x-vnd.ms-access","MS Access Database","MDE",0,"L","2.00.00",865
+"application/x-vnd.ms-excel","Comma Separated Values Text File","CAS, CSV, LOG","Y","H","2.31.02",451
+"application/x-vnd.ms-pki.seccat","MS Windows Security Catalog","CAT",0,"M","2.10.00",1233
+"application/x-vnd.ms-schedule","MS Schedule+ Schedule","SC2, SCD",0,"L","2.00.00",1031
+"application/x-vnd.ms-works-db","MS Works Database (MacBinary)","WDB",0,"M","2.09.00",1740
+"application/x-vnd.ms-works-db","MS Works Database (OLE)","WDB, DB","Y","H","2.27.00",567
+"application/x-vnd.ms-works-db","MS Works Database 2 for Windows/DOS","WDB",0,"M","2.21.00",3005
+"application/x-vnd.ms-works-db","MS Works Database 3 for Windows","WDB",0,"M","2.28.00",3006
+"application/x-vnd.openxmlformat","MS Access Database Template (Open XML)","ACCDT","Y","H","2.32.00",2396
+"application/x-vnd.openxmlformat","MS Excel Spreadsheet (Open XML)","XLSX, XLSM, XLAM, XLTX","Y","H","2.32.00",2209
+"application/x-vnd.openxmlformat","MS Excel Spreadsheet (Open XML,Binary)","XLSB","Y","H","2.32.01",2626
+"application/x-vnd.openxmlformat","MS Office Data (Open XML) (General)","XLSX, DOCX, PPTX, XLSM, DOCM, PPTM, ???X","Y","H","2.32.00",2207
+"application/x-vnd.openxmlformat","MS PowerPoint Presentation (Open XML)","PPTX, PPTM, POTX, PPSX","Y","H","2.32.00",2210
+"application/x-vnd.openxmlformat","MS Word 2007 Document (Open XML)","DOCX, DOCM, DOTX, DOTM","Y","H","2.32.00",2208
+"application/x-vnd.sun.xml.base","OpenOffice Database","ODB","Y","H","2.21.00",2615
+"application/x-vnd.sun.xml.calc","OpenOffice Spreadsheet / Template","SXC, STC","Y","H","2.21.00",2613
+"application/x-vnd.sun.xml.calc.template","OpenOffice Spreadsheet / Template","SXC, STC","Y","H","2.21.00",2613
+"application/x-vnd.sun.xml.draw","OpenOffice Drawing / Template","SXD, STD","Y","H","2.21.00",2610
+"application/x-vnd.sun.xml.draw.template","OpenOffice Drawing / Template","SXD, STD","Y","H","2.21.00",2610
+"application/x-vnd.sun.xml.impress","OpenOffice Impress Presentation / Template","SXI, STI","Y","H","2.21.00",2612
+"application/x-vnd.sun.xml.impress.template","OpenOffice Impress Presentation / Template","SXI, STI","Y","H","2.21.00",2612
+"application/x-vnd.sun.xml.math","OpenOffice Math Formula","SXM","Y","H","2.21.00",2611
+"application/x-vnd.sun.xml.writer","OpenOffice Text Document / Template","SXW, STW","Y","H","2.21.00",2614
+"application/x-vnd.sun.xml.writer.template","OpenOffice Text Document / Template","SXW, STW","Y","H","2.21.00",2614
+"application/x-wb1","QuattroPro Spreadsheet","WB1, WB2, WB3",0,"M","2.09.00",1135
+"application/x-win-bitmap","MS Windows Icon","ICO","Y","H","2.24.00",114
+"application/x-winamp-playlist","Winamp MP3 Playlist","M3U",0,"M","2.29.00",1497
+"application/x-winexe","MS Windows .NET Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2682
+"application/x-winexe","MS Windows .NET Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2683
+"application/x-winexe","MS Windows Driver (16 bit)","EXE, VXD, SYS, DRV, 386","Y","H","2.03.10",290
+"application/x-winexe","MS Windows Program (16 bit)","EXE, MOD, BIN","Y","H","2.03.10",288
+"application/x-winexe","MS Windows Program (32 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.03.10",77
+"application/x-winexe","MS Windows Program (64 bit)","EXE, SCR, MOD, SYS, BIN, COM","Y","H","2.18.00",2681
+"application/x-winexe","MS Windows Program (WIN386)","EXE",0,"H","2.03.10",289
+"application/x-winhlp","MS Windows Help File","HLP, GID, LHP",0,"M","2.19.02",115
+"application/x-winzip","MIME Base64 Archive","B64",0,"M","2.09.01",482
+"application/x-wordpro","Lotus Word Pro 96/97 Document","LWP, MWP",0,"M","2.23.00",846
+"application/x-wri","MS Write / Word Backup","WRI, WBK, TMP, DOC","Y","H","2.17.00",1136
+"application/x-wri","MS Write Document","WRI","Y","H","1.00.00",215
+"application/x-x509-ca-cert","VeriSign Security Certificate","CER, CRT, DER, DAT, CRL",0,"M","2.07.00",615
+"application/x-x509-ca-cert","x509 Security Certificate","CRT",0,"M","2.21.00",2984
+"application/x-x509-ca-cert","x509v3 Security Certificate","CRT",0,"M","2.21.00",2985
+"application/x-xlt","MS Excel Worksheet/Template (OLE)","XLS, XLA, XLT, XLB, WWS, XLM","Y","H","2.29.01",111
+"application/x-xnk","MS Exchange Shortcut/Link","XNK",0,"M","2.22.00",1164
+"application/x-xpinstall","Mozilla Address Book","MAB",0,"M","2.19.02",2817
+"application/x-xpinstall","Mozilla Browser Extension Package","XPI",0,"H","2.16.03",2511
+"application/x-xwd","X Windows System Dump Image","XWD, X11","Y","M","2.18.00",218
+"application/x-xz","XZ Compressed Archive","XZ",0,"M","2.26.00",3541
+"application/x-zip","PKZip Archive","ZIP, JAR, WMZ","Y","M","2.33.00",12
+"application/x-zip","PKZip Archive (Encrypted)","ZIP, JAR, WMZ","Y","H","2.23.00",3176
+"application/x-zip-compressed","Absolute Packager Self Extracting Archive","EXE, ZIP",0,"M","2.10.01",1971
+"application/x-zip-compressed","MIME Base64 Archive","B64",0,"M","2.09.01",482
+"application/x-zip-compressed","PKZip Archive","ZIP, JAR, WMZ","Y","M","2.33.00",12
+"application/x-zip-compressed","PKZip Archive (Encrypted)","ZIP, JAR, WMZ","Y","H","2.23.00",3176
+"application/x-zip-compressed","PKZip Archive Split File","CA1, CA2, CA3, CA4, CA5, CA6, CA7, CAn",0,"M","2.06.00",1272
+"application/x-zip-compressed","PKZip Self Extracting Archive","EXE, ZIP","Y","M","1.00.00",283
+"application/x-zip-compressed","WinZip Self Extracting Archive","EXE, ZIP",0,"M","2.09.02",584
+"application/x-zip-compressed","ZipGenius Compressed Archive","CZIP",0,"M","2.15.00",2369
+"application/x-zoo","Zoo Compressed Archive","ZOO",0,"M","2.16.00",56
+"application/xenc+xml","XML Encryption","XML",0,"H","2.16.00",2507
+"application/xhtml+xml","HTML + XML Namespace","XHTML, XHT, HTM, HTML",0,"H","2.16.00",488
+"application/xml","Extensible Markup Language","XML, CDF, OSD, AWE, HTML, HTM","Y","H","2.17.01",342
+"application/xml","Extensible Markup Language (MacBinary)","XML, CDF, OSD, AWE, HTML, HTM",0,"M","2.09.00",1772
+"application/xml","Extensible Markup Language (UTF-16BE)","XML",0,"M","2.14.00",2329
+"application/xml","Extensible Markup Language (UTF-16LE)","XML",0,"M","2.14.00",2330
+"application/xml","Extensible Markup Language (UTF-32BE)","XML",0,"M","2.14.00",2327
+"application/xml","Extensible Markup Language (UTF-32LE)","XML",0,"M","2.14.00",2328
+"application/xml","Extensible Markup Language (UTF-8)","XML",0,"M","2.14.00",2331
+"application/xml","Extensible Metadata Platform Sidecar (XML)","XML, XMP","Y","H","2.14.00",2338
+"application/xml","Extensible Style Language","XSL, XML, HTML, HTM, HTT, XSLT","Y","H","2.15.00",570
+"application/xml","MS Excel Spreadsheet (XML)","XML, XLS, HTM","Y","H","2.26.01",1248
+"application/xml","MS FrontPage Document (XML)","HTML, XML","Y","H","2.23.01",3317
+"application/xml","MS Office Document (XML)","XML, HTM","Y","H","2.03.07",1247
+"application/xml","MS PowerPoint Slides (XML)","PPT, PPS, XML, HTM","Y","H","2.09.00",718
+"application/xml","MS Word Document (XML)","DOC, XML, HTM, HTML, MHT","Y","H","2.26.01",1249
+"application/xml","Portable Application Description (XML)","XML","Y","H","2.14.00",2337
+"application/xml","SGML Document Type Definition","DTD, ENT, XML",0,"H","2.23.00",686
+"application/xml","XML Encryption","XML",0,"H","2.16.00",2507
+"application/xml","XML Schema","XSD, XML",0,"H","2.23.00",2132
+"application/xml","XSL Formatting Objects Form","FO, XML",0,"H","2.20.00",2861
+"application/xop+xml","XML-binary Optimized Packaging","XOP",0,"H","2.16.00",490
+"application/zip","PKZip Archive","ZIP, JAR, WMZ","Y","M","2.33.00",12
+"application/zip","PKZip Archive (Encrypted)","ZIP, JAR, WMZ","Y","H","2.23.00",3176
+"application/zip","PKZip Archive (MacBinary)","ZIP",0,"M","2.09.00",1735
+"application/zip","PKZip Archive Split File","CA1, CA2, CA3, CA4, CA5, CA6, CA7, CAn",0,"M","2.06.00",1272
+"audio/3gpp","3GPP Multimedia File","3GP, 3GG, 3G2, 3GPP, 3GPP2, MP4, MPG",0,"M","2.29.00",2096
+"audio/3gpp","3GPP Multimedia File (MacBinary)","3GP, 3GPP, 3GPP2",0,"M","2.16.00",2097
+"audio/3gpp2","3GPP Multimedia File","3GP, 3GG, 3G2, 3GPP, 3GPP2, MP4, MPG",0,"M","2.29.00",2096
+"audio/3gpp2","3GPP Multimedia File (MacBinary)","3GP, 3GPP, 3GPP2",0,"M","2.16.00",2097
+"audio/ac3","AC-3 / Dolby Digital Audio","AC3, EAC3",0,"M","2.16.00",2418
+"audio/AMR","Adaptive Multi-Rate Audio","AMR",0,"M","2.16.00",1694
+"audio/AMR-WB","Adaptive Multi-Rate Audio","AMR",0,"M","2.16.00",1694
+"audio/amr-wb+","Adaptive Multi-Rate Audio","AMR",0,"M","2.16.00",1694
+"audio/audible","Audible Audio Book","AA",0,"M","2.26.00",3576
+"audio/basic","Apple Sound","SND, HCO","Y","M","2.29.00",3924
+"audio/basic","AppleScript Script","SCPT","Y","M","2.21.00",3023
+"audio/basic","DEC Sound","SND","Y","M","2.25.00",2422
+"audio/basic","Generic Sound Sample","SND, SOU","Y","H","2.07.00",1367
+"audio/basic","Macintosh Sound + Resource Fork (MacBinary)","SND, HCO","Y","M","2.25.00",17
+"audio/basic","NeXT/Sun/UNIX Sound","AU, SND, SUN, NXT","Y","M","2.25.00",265
+"audio/dls","DownLoadable MIDI Sounds","DLS",0,"H","2.07.00",676
+"audio/DVI4","Digital Video Interface Video","AVS, DVI",0,"M","2.12.00",2138
+"audio/eac3","AC-3 / Dolby Digital Audio","AC3, EAC3",0,"M","2.16.00",2418
+"audio/EVRC","Enhanced Variable Rate Codec Sound","EVC",0,"M","2.16.00",2508
+"audio/evrc-qcp","PureVoice Audio","QCP","Y","M","2.25.00",1090
+"audio/EVRC0","Enhanced Variable Rate Codec Sound","EVC",0,"M","2.16.00",2508
+"audio/EVRCB","Enhanced Variable Rate Codec Sound-B","EVB",0,"M","2.16.00",492
+"audio/EVRCB0","Enhanced Variable Rate Codec Sound-B","EVB",0,"M","2.16.00",492
+"audio/EVRCB1","Enhanced Variable Rate Codec Sound-B","EVB",0,"M","2.16.00",492
+"audio/iLBC","Internet Low Bit Rate Codec Sound","LBC",0,"M","2.16.00",493
+"audio/mobile-xmf","Mobile XMF Music","MXMF",0,"M","2.16.00",494
+"audio/mobile-xmf","Mobile XMF Music (MacBinary)","MXMF",0,"M","2.16.00",495
+"audio/mp4","AAC MPEG-4 Audio","MP4, MPG4",0,"M","2.29.00",1534
+"audio/mp4","Apple MPEG-4 ALE Audio","M4A, MP4, MPG4",0,"M","2.07.00",1530
+"audio/mp4","MPEG 4 Animation","MP4, MPEG, MPG4",0,"M","2.16.00",2423
+"audio/mp4","MPEG 4 Animation (MacBinary)","MP4, MPEG, MPG4",0,"M","2.16.00",2449
+"audio/mp4","MPEG Animation","MPG, MPEG, MPE, M1V, ENC, MPA, MPS, M2V","Y","H","2.25.00",246
+"audio/mpeg","MPEG Music File (+ID3v1 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",349
+"audio/mpeg","MPEG Music File (+ID3v2 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",1239
+"audio/mpeg","MPEG Music File (MacBinary)","MP3, MP2, MPGA",0,"M","2.09.00",1749
+"audio/mpeg","Xing MPEG Animation","MPG, MPE, M1V, ENC",0,"H","2.19.00",247
+"audio/ogg","OGG Vorbis Compressed Audio","OGG, OGA",0,"M","2.24.00",1537
+"audio/prs.sid","Commodore 64 PlaySID Music","SID, PSID",0,"M","2.08.00",1593
+"audio/prs.sid","Commodore 64 RealSID Music","SID",0,"M","2.08.00",1594
+"audio/qcelp","PureVoice Audio","QCP","Y","M","2.25.00",1090
+"audio/rtp-midi","Scalable Polyphony MIDI Music","MID",0,"M","2.16.00",496
+"audio/SMV","Selectable Mode Vocoder Sound","SMV",0,"M","2.16.00",491
+"audio/SMV0","Selectable Mode Vocoder Sound","SMV",0,"M","2.16.00",491
+"audio/speex","Speex Encoded Audio","SPX",0,"M","2.24.00",1727
+"audio/VDVI","Digital Video Interface Video","AVS, DVI",0,"M","2.12.00",2138
+"audio/vnd.dolby.mlp","MLP Audio Stream (Intel)","MLP",0,"M","2.16.00",498
+"audio/vnd.dolby.mlp","MLP Audio Stream (Motorola)","MLP",0,"M","2.16.00",497
+"audio/vnd.everad.plj","EverAD PlayJ Sound","PLJ",0,"M","2.16.00",502
+"audio/vnd.hns.audio","RealMedia Audio/Video Stream","RM, RMJ, RAM, RA, RT, RP, RPA",0,"M","2.13.00",1015
+"audio/vnd.lucent.voice","Intuity AUDIX Multimedia Message","LVP",0,"M","2.16.00",505
+"audio/vnd.lucent.voice","Intuity AUDIX Multimedia Msg (MacBinary)","LVP",0,"M","2.16.00",507
+"audio/vnd.nokia.mobile-xmf","Mobile XMF Music","MXMF",0,"M","2.16.00",494
+"audio/vnd.nortel.vbk","Nortel Voice Block Sound (MacBinary)","VBK",0,"M","2.16.00",508
+"audio/x-adpcm","NeXT/Sun/UNIX Sound","AU, SND, SUN, NXT","Y","M","2.25.00",265
+"audio/x-aifc","Audio IFF Compressed Sound","AIFC, AIFF, AIF, IFF, SND","Y","H","2.25.00",1693
+"audio/x-aiff","Audio IFF Compressed Sound","AIFC, AIFF, AIF, IFF, SND","Y","H","2.25.00",1693
+"audio/x-aiff","Audio IFF Sound","AIFF, AIFC, AIF, IFF, SND","Y","H","2.18.00",323
+"audio/x-asf","MS Windows Media Active Stream","WMV, WMA, ASF, ASR, DVR-MS",0,"H","2.19.00",1259
+"audio/x-au","NeXT/Sun/UNIX Sound","AU, SND, SUN, NXT","Y","M","2.25.00",265
+"audio/x-avi","MS Audio/Visual Interleave (Intel)","AVI, VFW, DA2","Y","H","2.11.00",234
+"audio/x-avi","MS Audio/Visual Interleave (Motorola)","AVI, VFW","Y","H","2.17.00",2599
+"audio/x-basic","DEC Sound","SND","Y","M","2.25.00",2422
+"audio/x-basic","NeXT/Sun/UNIX Sound","AU, SND, SUN, NXT","Y","M","2.25.00",265
+"audio/x-dec-adpcm","DEC Sound","SND","Y","M","2.25.00",2422
+"audio/x-dec-basic","DEC Sound","SND","Y","M","2.25.00",2422
+"audio/x-dts","Dolby Theatre System Audio","DTS",0,"M","2.16.00",2421
+"audio/x-flac","Free Lossless Audio Codec","FLAC, FLA",0,"M","2.03.06",1246
+"audio/x-gsm","PureVoice Audio","QCP","Y","M","2.25.00",1090
+"audio/x-hx-aac-adif","Advanced Audio Coding ADIF Sound","AAC",0,"M","2.16.00",454
+"audio/x-hx-aac-adts","Advanced Audio Coding ADTS Sound","AAC",0,"M","2.16.00",2419
+"audio/x-it","Impulse Tracker Music Module","IT",0,"M","2.24.00",805
+"audio/x-la-lqt","Liquid Audio File","LQT",0,"M","2.09.00",1715
+"audio/x-liquid-file","Liquid Audio File","LQT",0,"M","2.09.00",1715
+"audio/x-med","OctaMED Compressed Tracker Module","MED, MMD",0,"M","2.24.00",3387
+"audio/x-med","OctaMED Tracker Module","MMD, MED",0,"M","1.00.00",318
+"audio/x-mid","Karaoke MIDI File","KAR, MID, MF",0,"M","2.25.00",815
+"audio/x-mid","Midi Sequencer Music (MacBinary)","MID",0,"M","2.09.00",1794
+"audio/x-mid","MS Midi Musical Instrument Song (Intel)","RMI","Y","H","1.00.00",311
+"audio/x-mid","MS Midi Musical Musical Instrument Song (Motorola)","RMI",0,"H","2.17.00",2270
+"audio/x-mid","Standard Midi Sequencer Music","MID, MDI, RMI, SMF, MIDI","Y","H","2.07.00",240
+"audio/x-midi","Karaoke MIDI File","KAR, MID, MF",0,"M","2.25.00",815
+"audio/x-midi","Midi Sequencer Music (MacBinary)","MID",0,"M","2.09.00",1794
+"audio/x-midi","Standard Midi Sequencer Music","MID, MDI, RMI, SMF, MIDI","Y","H","2.07.00",240
+"audio/x-mod","FastTracker 2 Extended Music Module","XM",0,"M","2.14.00",1163
+"audio/x-mod","OctaMED Compressed Tracker Module","MED, MMD",0,"M","2.24.00",3387
+"audio/x-mod","OctaMED Tracker Module","MMD, MED",0,"M","1.00.00",318
+"audio/x-module-xm","FastTracker 2 Extended Music Module","XM",0,"M","2.14.00",1163
+"audio/x-mp3","MPEG Music File (+ID3v1 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",349
+"audio/x-mp3","MPEG Music File (+ID3v2 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",1239
+"audio/x-mp3","MPEG Music File (MacBinary)","MP3, MP2, MPGA",0,"M","2.09.00",1749
+"audio/x-mpeg","MPEG Music File (+ID3v1 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",349
+"audio/x-mpeg","MPEG Music File (+ID3v2 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",1239
+"audio/x-mpeg","MPEG Music File (MacBinary)","MP3, MP2, MPGA",0,"M","2.09.00",1749
+"audio/x-mpeg","Xing MPEG Animation","MPG, MPE, M1V, ENC",0,"H","2.19.00",247
+"audio/x-mpeg-url","Winamp MP3 Playlist","M3U",0,"M","2.29.00",1497
+"audio/x-mpeg3","MPEG Music File (+ID3v1 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",349
+"audio/x-mpeg3","MPEG Music File (+ID3v2 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",1239
+"audio/x-mpeg3","MPEG Music File (MacBinary)","MP3, MP2, MPGA",0,"M","2.09.00",1749
+"audio/x-mpg","MPEG Music File (+ID3v1 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",349
+"audio/x-mpg","MPEG Music File (+ID3v2 Tags)","MP3, MP2, MPGA","Y","H","2.19.00",1239
+"audio/x-mpg","MPEG Music File (MacBinary)","MP3, MP2, MPGA",0,"M","2.09.00",1749
+"audio/x-musepack","Musepack Audio","MPC",0,"M","2.07.00",1535
+"audio/x-nspaudio","LA Lossless Compressed Audio","LA",0,"M","2.29.00",1701
+"audio/x-nvf","Nomad II Voice","NVF",0,"M","2.09.00",1718
+"audio/x-ogg","OGG FLAC Compressed Audio","OGG",0,"M","2.24.00",2922
+"audio/x-ogg","OGG Vorbis Compressed Audio","OGG, OGA",0,"M","2.24.00",1537
+"audio/x-ogg","OGG Vorbis Compressed Audio (MacBinary)","OGG",0,"M","2.16.00",2451
+"audio/x-pat","Gravis Ultrasound Patch","PAT",0,"M","1.00.00",202
+"audio/x-pm-realaudio-plugin","RealMedia Audio Sound","RA, RAM",0,"M","2.07.00",1002
+"audio/x-pm-realaudio-plugin","RealMedia Metafile","RAM",0,"M","2.19.03",2833
+"audio/x-pn-aiff","Audio IFF Compressed Sound","AIFC, AIFF, AIF, IFF, SND","Y","H","2.25.00",1693
+"audio/x-pn-aiff","Audio IFF Sound","AIFF, AIFC, AIF, IFF, SND","Y","H","2.18.00",323
+"audio/x-pn-audibleaudio","Audible Audio Book","AA",0,"M","2.26.00",3576
+"audio/x-pn-realaudio","RealMedia Audio Sound","RA, RAM",0,"M","2.07.00",1002
+"audio/x-pn-realaudio","RealMedia Audio/Video Stream","RM, RMJ, RAM, RA, RT, RP, RPA",0,"M","2.13.00",1015
+"audio/x-pn-realaudio","RealMedia Metafile","RAM",0,"M","2.19.03",2833
+"audio/x-psid","Commodore 64 PlaySID Music","SID, PSID",0,"M","2.08.00",1593
+"audio/x-real","RealMedia Audio Sound","RA, RAM",0,"M","2.07.00",1002
+"audio/x-real","RealMedia Metafile","RAM",0,"M","2.19.03",2833
+"audio/x-realaudio","RealMedia Audio Sound","RA, RAM",0,"M","2.07.00",1002
+"audio/x-realaudio","RealMedia Audio/Video Stream","RM, RMJ, RAM, RA, RT, RP, RPA",0,"M","2.13.00",1015
+"audio/x-realaudio","RealMedia Metafile","RAM",0,"M","2.19.03",2833
+"audio/x-s3m","Digital Multi-Track Module/Song","S3M","Y","M","2.03.18",235
+"audio/x-scpls","Winamp MP3 Playlist","M3U",0,"M","2.29.00",1497
+"audio/x-scpls","WinAmp MPEG Play List","PLS",0,"M","2.11.00",959
+"audio/x-sd2","PureVoice Audio","QCP","Y","M","2.25.00",1090
+"audio/x-sidtune","Commodore 64 PlaySID Music","SID, PSID",0,"M","2.08.00",1593
+"audio/x-sidtune","Commodore 64 RealSID Music","SID",0,"M","2.08.00",1594
+"audio/x-snd","DEC Sound","SND","Y","M","2.25.00",2422
+"audio/x-snd","NeXT/Sun/UNIX Sound","AU, SND, SUN, NXT","Y","M","2.25.00",265
+"audio/x-speex","Speex Encoded Audio","SPX",0,"M","2.24.00",1727
+"audio/x-tta","TTA (True Audio) Free Lossless Audio","TTA",0,"M","2.16.00",2405
+"audio/x-twinvq","Yamaha TwinVQF Music","VQF",0,"M","2.15.00",1128
+"audio/x-ulaw","NeXT/Sun/UNIX Sound","AU, SND, SUN, NXT","Y","M","2.25.00",265
+"audio/x-vnd.rn-realaudio","RealMedia Audio Sound","RA, RAM",0,"M","2.07.00",1002
+"audio/x-vnd.rn-realaudio","RealMedia Audio/Video Stream","RM, RMJ, RAM, RA, RT, RP, RPA",0,"M","2.13.00",1015
+"audio/x-vnd.rn-realaudio","RealMedia Metafile","RAM",0,"M","2.19.03",2833
+"audio/x-voc","Creative Voice Sound","VOC","Y","M","1.00.00",14
+"audio/x-voxware","VoxWare MetaVoice Encoded Audio","VOX","Y","H","2.07.00",1125
+"audio/x-wav","Audio Manager Module (RIFF)","AMM","Y","H","2.18.00",2653
+"audio/x-wav","MS Windows Wave Sound (Intel)","WAV","Y","H","2.06.00",166
+"audio/x-wav","MS Windows Wave Sound (MacBinary)","WAV",0,"M","2.09.00",1737
+"audio/x-wav","MS Windows Wave Sound (Motorola)","WAV",0,"H","2.17.00",2272
+"audio/x-xm","FastTracker 2 Extended Music Module","XM",0,"M","2.14.00",1163
+"audio/x-xmms-bonk","BONK Lossless/Lossy Compressed Audio","BONK",0,"M","2.16.00",2420
+"audio/x-xmms-shn","Shorten Compressed Audio","SHN",0,"M","2.16.00",1723
+"chemical/x-cml","Chemical Markup Language Document","CML",0,"M","2.21.00",2974
+"drawing/x-igs","Initial Graphics Exchange Specification","IGES, IGS",0,"M","2.26.01",795
+"image/cgm","Computer Graphics Metafile (ASCII)","CGM",0,"M","2.04.01",569
+"image/cgm","Computer Graphics Metafile (Binary)","CGM",0,"M","2.17.00",351
+"image/fits","Flexible Image Transport System Bitmap","FITS, FIT, FTS, LST",0,"M","2.08.00",726
+"image/gif","Graphics Interchange Format","GIF, GIFF","Y","H","2.30.04",4
+"image/hrf","Hitachi Raster Format Image","HRF",0,"M","2.08.00",1653
+"image/jp2","JPEG-2000 Bitmap Image","JP2, JPG2, JPX, MJ2, MJP2, JPM, J2K",0,"M","2.06.00",1294
+"image/jp2","JPEG-2000 Bitmap Image (MacBinary)","JP2, JPG2, JPX, MJ2, MJP2, JPM",0,"M","2.16.00",509
+"image/jpeg","HSI JPEG Picture","JPEG, JPG","Y","M","2.25.00",173
+"image/jpeg","JPEG File Interchange Format + MAC Resource Fork","JPG","Y","H","2.19.00",1332
+"image/jpeg","JPEG File Interchange Format Image","JPEG, JFIF, JPG, JFI, CMP, JIF, THM, JPE","Y","H","2.19.00",185
+"image/jpeg","JPEG File Interchange Format Image (MacBinary)","JPEG, JFIF, JPG, JFI, CMP, JIF, J, JPE",0,"M","2.16.00",1733
+"image/jpeg","JPEG Network Graphic Bitmap","JNG","Y","H","2.25.00",1659
+"image/jpeg","Kretz JPEG Picture","V00","Y","M","2.06.00",1318
+"image/jpeg","Seattle Film Works JPEG Image","SFW",0,"L","2.00.00",1059
+"image/jpeg","Still Picture Interchange File Format (SPIFF)","SPIFF, SPF, JPG, JPEG",0,"M","2.21.00",2921
+"image/jpm","JPEG-2000 Bitmap Image","JP2, JPG2, JPX, MJ2, MJP2, JPM, J2K",0,"M","2.06.00",1294
+"image/jpm","JPEG-2000 Bitmap Image (MacBinary)","JP2, JPG2, JPX, MJ2, MJP2, JPM",0,"M","2.16.00",509
+"image/jpx","JPEG-2000 Bitmap Image","JP2, JPG2, JPX, MJ2, MJP2, JPM, J2K",0,"M","2.06.00",1294
+"image/jpx","JPEG-2000 Bitmap Image (MacBinary)","JP2, JPG2, JPX, MJ2, MJP2, JPM",0,"M","2.16.00",509
+"image/png","Portable Network Graphics Bitmap","PNG","Y","H","2.23.00",965
+"image/sdw","Word Pro Graphic / AMI Draw Vector Image","SDW",0,"L","2.28.00",3822
+"image/tiff","Tag Image File Format (Intel)","TIFF, TIF, SEP","Y","M","2.25.00",321
+"image/tiff","Tag Image File Format (MacBinary)","TIFF, TIF, SEP","Y","M","2.03.18",298
+"image/tiff","Tag Image File Format (Motorola)","TIFF, TIF, SEP, TIM","Y","M","2.03.12",146
+"image/vnd.adobe.photoshop","Adobe PhotoShop Image","PSD, PDD","Y","M","2.14.00",400
+"image/vnd.adobe.photoshop","Adobe PhotoShop Image (MacBinary)","PSD, PDD",0,"M","2.16.00",1739
+"image/vnd.djvu","DjVu Document Image","DJVU, DJV","Y","H","2.25.00",1826
+"image/vnd.djvu","DjVu Document Image (MacBinary)","DJVU, DJV",0,"M","2.16.00",511
+"image/vnd.dwg","AutoCAD Drawing","DWG",0,"M","2.03.06",26
+"image/vnd.dwg","AutoCAD Drawing (MacBinary)","DWG",0,"M","2.09.00",1744
+"image/vnd.dxf","AutoCAD Drawing Exchange (ASCII)","DXF",0,"M","2.03.18",73
+"image/vnd.dxf","AutoCAD Drawing Exchange(Binary)","DXF",0,"M","2.08.00",74
+"image/vnd.fpx","FlashPix Bitmap","FPX, CPX, FMP","Y","H","2.26.00",740
+"image/vnd.fpx","FlashPix Bitmap (MacBinary)","FPX, CPX, FMP",0,"M","2.16.00",512
+"image/vnd.fujixerox.edmics-rlc","DocuFile / EDMICS 2000 Image","RLC",0,"M","2.16.00",513
+"image/vnd.globalgraphics.pgb","Harlequin RIP Image","PGB",0,"M","2.16.00",515
+"image/vnd.microsoft.icon","MS Windows Icon","ICO","Y","H","2.24.00",114
+"image/vnd.mix","MS Picture It! Multilayer Picture","MIX","Y","H","2.30.00",1358
+"image/vnd.mix","PhotoDraw Multilayer Picture","MIX","Y","H","2.30.00",3988
+"image/vnd.ms-modi","Office Document Imaging File","MDI",0,"M","2.10.00",1904
+"image/vnd.ms-photo","Windows Media (HD) Photo","WDP, HDP",0,"M","2.21.00",2919
+"image/vnd.net-fpx","FlashPix Bitmap","FPX, CPX, FMP","Y","H","2.26.00",740
+"image/vnd.net-fpx","FlashPix Bitmap (MacBinary)","FPX, CPX, FMP",0,"M","2.16.00",512
+"image/vnd.sealedmedia.softseal.gif","Sealed GIF Image","SGI, SGIF, S1G",0,"M","2.16.00",2425
+"image/vnd.svf","Simple Vector Format Image","SVF",0,"M","2.11.00",1083
+"image/vnd.wap.wbmp","Wireless Bitmap","WBMP",0,"M","2.15.00",525
+"image/x-3ds","Ray Dream Studio Native Data Format","RDS, 3DS, D3D",0,"M","2.11.00",2006
+"image/x-amidraw","Word Pro Graphic / AMI Draw Vector Image","SDW",0,"L","2.28.00",3822
+"image/x-avi","MS Audio/Visual Interleave (Intel)","AVI, VFW, DA2","Y","H","2.11.00",234
+"image/x-avi","MS Audio/Visual Interleave (Motorola)","AVI, VFW","Y","H","2.17.00",2599
+"image/x-bga","OS/2 Bitmap Graphic Array","BGA",0,"M","2.07.00",1542
+"image/x-bmp","MS Windows Bitmap","BMP, DIB, SYS, RLE, BIN, VGA, RLn","Y","M","2.29.00",5
+"image/x-bmp","Paint Shop Pro Image","PSPIMAGE, PSPBRUSH, PSPFRAME, PSPSELECTI","Y","M","2.25.00",1305
+"image/x-cdr","Corel Draw Raster (Intel)","CDR, PAT, CDT","Y","H","2.15.03",241
+"image/x-cdr","Corel Draw Raster (Motorola)","CDR, PAT","Y","H","2.17.00",2597
+"image/x-cmu-raster","CALS Raster Image","CAL, RAS, CALS",0,"M","1.00.00",180
+"image/x-cmx","Corel Metafile Exchange Image (Intel)","CMX, PAT, CDR",0,"H","2.25.00",631
+"image/x-cmx","Corel Metafile Exchange Img (Motorola)","CMX, PAT, CDR",0,"H","2.17.00",2279
+"image/x-cpi","Cartesian Products Compressed Internet Document","CPC",0,"M","2.21.00",2982
+"image/x-dcx","Paintbrush Multi-Page Fax Bitmap","DCX, CMM, PCX, PCC","Y","M","2.25.00",319
+"image/x-dicom","DICOM Image","DICM, DCM",0,"M","2.20.01",1550
+"image/x-dicom","DICOM Image (MacBinary)","DICM, DCM",0,"M","2.16.00",2443
+"image/x-djvu","DjVu Document Image","DJVU, DJV","Y","H","2.25.00",1826
+"image/x-djvu","DjVu Document Image (MacBinary)","DJVU, DJV",0,"M","2.16.00",511
+"image/x-doc-wavelet","LuraDocument Format Image","LDF",0,"M","2.13.00",693
+"image/x-dwf","AutoDesk Web Graphics Image","DWF",0,"M","2.10.00",692
+"image/x-dwg","AutoCAD Drawing","DWG",0,"M","2.03.06",26
+"image/x-dxb","AutoCAD Drawing Exchange Binary","DXB, ACAD",0,"M","2.08.00",75
+"image/x-dxf","AutoCAD Drawing Exchange (ASCII)","DXF",0,"M","2.03.18",73
+"image/x-dxf","AutoCAD Drawing Exchange(Binary)","DXF",0,"M","2.08.00",74
+"image/x-efax","eFax Electronic Fax Document","EFX, JSD",0,"M","2.15.00",1210
+"image/x-efax","eFax Phone Book","ADR",0,"M","2.10.00",1968
+"image/x-emf","MS Windows Enhanced Metafile","EMF, TMP, WMF",0,"M","2.07.00",702
+"image/x-fif","Fractal Image File","FIF",0,"M","2.28.00",725
+"image/x-fpx","FlashPix Bitmap","FPX, CPX, FMP","Y","H","2.26.00",740
+"image/x-fpx","FlashPix Bitmap (MacBinary)","FPX, CPX, FMP",0,"M","2.16.00",512
+"image/x-hpgl","HP Graphics Language Drawing (PJL)","HPGL, HGL, PLT","Y","H","2.06.03",841
+"image/x-hpgl","HP Plotter Language Drawing","PGL, HPGL",0,"M","2.23.00",941
+"image/x-hrf","Hitachi Raster Format Image","HRF",0,"M","2.08.00",1653
+"image/x-ico","MS Windows Icon","ICO","Y","H","2.24.00",114
+"image/x-icon","MS Windows Icon","ICO","Y","H","2.24.00",114
+"image/x-icon","Sun Icon/Cursor Image","ICON, CURSOR, PR, ICO",0,"M","2.22.00",790
+"image/x-iff","Amiga Contiguous Bitmap","ACBM","Y","H","2.18.00",2629
+"image/x-iff","Amiga Interchange File Format Image","LBM, IFF, ILM, BBM, ILBM, BLK","Y","H","2.25.00",6
+"image/x-igs","Initial Graphics Exchange Specification","IGES, IGS",0,"M","2.26.01",795
+"image/x-img","GEM VDI Paint Image","IMG, GEM","Y","M","2.25.00",9
+"image/x-jng","JPEG Network Graphic Bitmap","JNG","Y","H","2.25.00",1659
+"image/x-jpeg-proprietary","HSI JPEG Picture","JPEG, JPG","Y","M","2.25.00",173
+"image/x-jpeg2000","JPEG-2000 Bitmap Image","JP2, JPG2, JPX, MJ2, MJP2, JPM, J2K",0,"M","2.06.00",1294
+"image/x-jpeg2000-image","JPEG-2000 Bitmap Image","JP2, JPG2, JPX, MJ2, MJP2, JPM, J2K",0,"M","2.06.00",1294
+"image/x-lotusamidraw","Word Pro Graphic / AMI Draw Vector Image","SDW",0,"L","2.28.00",3822
+"image/x-lwo","LightWave 3D Layered Object","LWLO","Y","H","2.23.00",3244
+"image/x-lwo","LightWave 3D Object","LWOB, LWO","Y","H","2.30.00",845
+"image/x-lws","LightWave 3D Scene","LWSC, LWS","Y","H","2.18.00",847
+"image/x-mgx-emf","MS Windows Enhanced Metafile","EMF, TMP, WMF",0,"M","2.07.00",702
+"image/x-mpg","MPEG 2 Transport Stream","MP2T, MPEG",0,"M","2.16.00",2424
+"image/x-mpg","MPEG 4 Animation","MP4, MPEG, MPG4",0,"M","2.16.00",2423
+"image/x-mpg","MPEG 4 Animation (MacBinary)","MP4, MPEG, MPG4",0,"M","2.16.00",2449
+"image/x-mpg","MPEG Animation","MPG, MPEG, MPE, M1V, ENC, MPA, MPS, M2V","Y","H","2.25.00",246
+"image/x-mrsid-image","MrSID Image","SID",0,"M","2.21.00",2920
+"image/x-niff","Navy Interchange File Format Image","NIFF",0,"M","2.16.00",2415
+"image/x-pc-paintbrush","Paintbrush Multi-Page Fax Bitmap","DCX, CMM, PCX, PCC","Y","M","2.25.00",319
+"image/x-pcd","Kodak Photo CD Image","PCD",0,"H","2.28.00",932
+"image/x-pcx","Paintbrush Multi-Page Fax Bitmap","DCX, CMM, PCX, PCC","Y","M","2.25.00",319
+"image/x-perfectworks","Novel PerfectWorks Document","WPW",0,"L","2.00.00",1152
+"image/x-photo-cd","Kodak Photo CD Image","PCD",0,"H","2.28.00",932
+"image/x-photoshop","Adobe PhotoShop Image","PSD, PDD","Y","M","2.14.00",400
+"image/x-pipeg","JPEG File Interchange Format Image","JPEG, JFIF, JPG, JFI, CMP, JIF, THM, JPE","Y","H","2.19.00",185
+"image/x-plt","AutoCAD Plot Drawing","PLT",0,"M","2.15.00",960
+"image/x-portable-anymap","Portable Arbitrary Map Image (Binary)","PAM",0,"M","2.14.00",2276
+"image/x-portable-anymap","Portable BitMap Image (ASCII)","PBM, PNM",0,"M","1.00.00",273
+"image/x-portable-anymap","Portable BitMap Image (Binary)","PBM, PNM",0,"M","1.00.00",186
+"image/x-portable-anymap","Portable GreyMap Image (ASCII)","PGM, PNM, PBM",0,"M","1.00.00",275
+"image/x-portable-anymap","Portable GreyMap Image (Binary)","PGM, PNM, PBM",0,"M","1.00.00",187
+"image/x-portable-anymap","Portable PixMap Image (ASCII)","PPM, PNM, PBM",0,"M","1.00.00",281
+"image/x-portable-anymap","Portable PixMap Image (Binary)","PPM, PNM, PBM",0,"M","1.00.00",188
+"image/x-portable-bitmap","Portable BitMap Image (ASCII)","PBM, PNM",0,"M","1.00.00",273
+"image/x-portable-bitmap","Portable BitMap Image (Binary)","PBM, PNM",0,"M","1.00.00",186
+"image/x-portable-bitmap","Portable GreyMap Image (ASCII)","PGM, PNM, PBM",0,"M","1.00.00",275
+"image/x-portable-bitmap","Portable GreyMap Image (Binary)","PGM, PNM, PBM",0,"M","1.00.00",187
+"image/x-portable-bitmap","Portable PixMap Image (ASCII)","PPM, PNM, PBM",0,"M","1.00.00",281
+"image/x-portable-bitmap","Portable PixMap Image (Binary)","PPM, PNM, PBM",0,"M","1.00.00",188
+"image/x-portable-graymap","Portable GreyMap Image (ASCII)","PGM, PNM, PBM",0,"M","1.00.00",275
+"image/x-portable-graymap","Portable GreyMap Image (Binary)","PGM, PNM, PBM",0,"M","1.00.00",187
+"image/x-portable-pixmap","Portable PixMap Image (ASCII)","PPM, PNM, PBM",0,"M","1.00.00",281
+"image/x-portable-pixmap","Portable PixMap Image (Binary)","PPM, PNM, PBM",0,"M","1.00.00",188
+"image/x-psion-sketch","Symbian Sketch Image",0,0,"M","2.21.00",3029
+"image/x-quicktime","QuickTime Image","QTI, QTIF, QTS, QTX, QIF",0,"M","2.23.01",997
+"image/x-ras","Sun Raster Image","RAS, RAST, SUN, SR, SCR, RS, SRS","Y","M","2.25.00",206
+"image/x-rgb","Silicon Graphics RGB Bitmap Image","SGI, BW, RGB, RLE, IRIS, RGBA","Y","M","2.25.00",176
+"image/x-sld","AutoCAD Slide File","SLD",0,"M","2.11.00",1069
+"image/x-svf","Simple Vector Format Image","SVF",0,"M","2.11.00",1083
+"image/x-svg","Scalable Vector Graphics Image","SVG",0,"H","2.05.00",1264
+"image/x-svg+xml","Scalable Vector Graphics Image","SVG",0,"H","2.05.00",1264
+"image/x-svg-xml","Scalable Vector Graphics Image","SVG",0,"H","2.05.00",1264
+"image/x-vnd.adobe.svg+xml","Scalable Vector Graphics Image","SVG",0,"H","2.05.00",1264
+"image/x-vnd.dwf","AutoDesk Web Graphics Image","DWF",0,"M","2.10.00",692
+"image/x-vnd.rn-realflash","Shockwave Flash Object","SWF, SPL","Y","H","2.25.00",429
+"image/x-vnd.swiftview-pcx","Paintbrush Multi-Page Fax Bitmap","DCX, CMM, PCX, PCC","Y","M","2.25.00",319
+"image/x-vsd","MS Visio 3/4 Document/Drawing/Shapes/Template","VSD, VSS, VST, VT","Y","H","2.26.00",1130
+"image/x-wavelet","LuraWave Format Image","LWF",0,"M","2.08.00",1661
+"image/x-xbitmap","MS Windows Enhanced Metafile","EMF, TMP, WMF",0,"M","2.07.00",702
+"image/x-xbitmap","X11 BitMap","XBM, BM, BMP, BITMAP",0,"H","1.05.00",179
+"image/x-xbitmap","X11 Pixmap Image","XPM, PM",0,"M","2.22.00",1166
+"image/x-xcf","GIMP Image","XCF, GZ","Y","M","2.25.00",1859
+"image/x-xcursor","X11 Mouse Cursor",0,0,"M","2.24.00",3324
+"image/x-xpixmap","X11 Pixmap Image","XPM, PM",0,"M","2.22.00",1166
+"image/x-xpm","X11 Pixmap Image","XPM, PM",0,"M","2.22.00",1166
+"image/x-xpmi","X11 Pixmap Image","XPM, PM",0,"M","2.22.00",1166
+"image/x-xwd","X Windows System Dump Image","XWD, X11","Y","M","2.18.00",218
+"image/x-xwindowdump","X Windows System Dump Image","XWD, X11","Y","M","2.18.00",218
+"message/news","Emacs RMAIL News Message",0,0,"M","2.22.00",3049
+"message/news","MS Outlook Express News Message","NWS",0,"M","2.22.00",457
+"message/rfc822","Emacs RMAIL News Message",0,0,"M","2.22.00",3049
+"message/rfc822","Internet Message","EML, TXT","Y","H","2.31.02",703
+"message/rfc822","Internet Message (MIME)","EML, TXT, MHT, MIM, MME, MIME, MSG","Y","H","2.22.01",1262
+"message/rfc822","Internet Message (UU-Encoded)","EML, TXT","Y","H","2.22.01",1263
+"message/rfc822","MIME HTML Web Page Archive","MHT, EML, HTM, MAFF, MHTML","Y","H","2.22.01",1910
+"message/rfc822","MS Outlook Express News Message","NWS",0,"M","2.22.00",457
+"message/x-rfc2822","Internet Message","EML, TXT","Y","H","2.31.02",703
+"message/x-rfc2822","Internet Message (MIME)","EML, TXT, MHT, MIM, MME, MIME, MSG","Y","H","2.22.01",1262
+"message/x-rfc2822","Internet Message (UU-Encoded)","EML, TXT","Y","H","2.22.01",1263
+"model/iges","Initial Graphics Exchange Specification","IGES, IGS",0,"M","2.26.01",795
+"model/vnd-dwf","AutoDesk Web Graphics Image","DWF",0,"M","2.10.00",692
+"model/vnd.gdl","Geometric Description Language Image","GDL, GSM, WIN, DOR, LMP, RSM, MSM, ISM",0,"M","2.16.00",517
+"model/vrml","Virtual Reality World (ASCII)","WRL, WRZ, VRML, WRML",0,"M","2.17.00",412
+"model/vrml","Virtual Reality World (Binary)","WRL, IVR, BEH, LIT, WRZ",0,"M","1.05.00",413
+"model/x3d","Extensible 3D Model","X3D",0,"H","2.23.00",3195
+"multipart/appledouble","AppleDouble MIME Format","DAT, AD",0,"M","2.16.00",2439
+"text/calendar","Virtual Calendar File","VCS, ICS",0,"M","2.18.00",2072
+"text/css","Cascading Style Sheet","CSS, HTM",0,"M","2.05.02",415
+"text/csv","Comma Separated Values Text File","CAS, CSV, LOG","Y","H","2.31.02",451
+"text/html","Extended HTML Template","HTX",0,"L","2.00.00",784
+"text/html","HyperText Markup Language","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM","Y","H","2.23.01",315
+"text/html","HyperText Markup Language (MacBinary)","HTML, HTM, HTT, HTTP, ASP, MHT, HTA, HT?",0,"M","2.09.00",1771
+"text/html","HyperText Markup Language (UTF-16BE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2829
+"text/html","HyperText Markup Language (UTF-16LE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2830
+"text/html","HyperText Markup Language (UTF-32BE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2827
+"text/html","HyperText Markup Language (UTF-32LE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2828
+"text/html","HyperText Markup Language (UTF-8)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.25.01",2831
+"text/html","HyperText Markup Language 5","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM","Y","H","2.33.00",4109
+"text/html","Perl-Parsed HTML","PHTML",0,"L","2.00.00",944
+"text/javascript","Java Script Source Code File","JS, ASP, HTM, HTML, HTT, HTC, ASPX, ASCX",0,"H","2.23.01",401
+"text/javascript","Web Script Source Code","JS, ASP, HTM, HTML, HT?, INC, AS?X, BAS",0,"M","2.23.01",3319
+"text/ofc","Open Financial Connectivity File","OFC",0,"M","2.32.00",4069
+"text/OpenPGP","Pretty Good Privacy Encrypted Data",0,0,"M","2.16.00",2435
+"text/PGP","Pretty Good Privacy Key/Signature Text","TXT",0,"M","2.16.00",2414
+"text/plain","BASIC Script/Source Code","BAS, CSC, VBS",0,"H","2.22.00",28
+"text/plain","C/C++ Source Code File","C, CPP, H, CC, PCH++, RC",0,"M","2.23.01",406
+"text/plain","Configuration File (Text)","CFG, CNF, INI",0,"M","2.00.00",352
+"text/plain","Initialization File","INI, SYS, INF, ECF",0,"M","2.23.00",456
+"text/plain","MS Visual C++ Resource Script","RC",0,"M","2.03.06",416
+"text/plain","Setup Information","INF, INI, CDF, ISS, SWT",0,"M","2.15.02",455
+"text/plain","Source Code (General)","PAS, C, CPP, JS, H, VB, VBS",0,"M","2.31.02",1256
+"text/plain","Text File","TXT, DOC, INI, INF, ASC, TEXT","Y","H","2.28.00",3
+"text/plain","Text File (UTF-8)","TXT, INI, TEXT, LOG",0,"M","2.23.01",1254
+"text/plain","Windows CD-ROM Autorun","INF",0,"M","2.26.00",3525
+"text/rtf","MS Rich Text Format Document","RTF, DOC, WRI, WBK","Y","H","2.32.01",269
+"text/rtf","MS Rich Text Format Document (Mac)","RTF","Y","H","2.24.00",3299
+"text/rtf","MS Rich Text Format Document (MacBinary)","RTF, DOC, WRI, WBK",0,"M","2.09.00",1756
+"text/tab-separated-values","Tab Separated Values Text File","TSV, TXT, TEXT, LOG","Y","H","2.15.00",1258
+"text/vnd.abc","ABC Music Language Song","ABC",0,"M","2.16.00",520
+"text/vnd.wap.wml","Wireless Markup Language","WML",0,"H","2.19.00",2730
+"text/x-aguide","AmigaGuide Hypertext Document","GUIDE",0,"M","2.14.00",2316
+"text/x-anytext","Comma Separated Values Text File","CAS, CSV, LOG","Y","H","2.31.02",451
+"text/x-comma-separated-values","Comma Separated Values Text File","CAS, CSV, LOG","Y","H","2.31.02",451
+"text/x-info","GNU Info Hypertext Document","INFO",0,"M","2.14.00",2318
+"text/x-java-source","Java Source Code File","JAVA, HTM",0,"M","2.28.00",418
+"text/x-klyx","LyX Document","LYX",0,"M","2.26.00",3572
+"text/x-lisp","Lisp/Scheme Program Code",0,0,"M","2.26.00",3536
+"text/x-microsoft-resx","MS .NET Resource Schema/Template (XML)","RESX",0,"H","2.15.04",2180
+"text/x-mspg-legacyinfo","MS Windows Installer Package / Wizard","MSI, MST, DAT, MSM, WID, WIM","Y","H","2.24.00",1211
+"text/x-pdf","Adobe Portable Document Format","PDF","Y","H","2.31.00",258
+"text/x-pdf","Adobe Portable Document Format (PDF/A)","PDF","Y","H","2.31.02",4065
+"text/x-pdf","Adobe Portable Document Format (PDF/A-1a)","PDF","Y","H","2.31.02",4062
+"text/x-pdf","Adobe Portable Document Format (PDF/A-1b)","PDF","Y","H","2.31.02",4063
+"text/x-pdf","Adobe Portable Document Format (PDF/X)","PDF","Y","H","2.31.02",4064
+"text/x-php","Personal Home Page Script","PHP, PHP3, PHP4, PH3, PH4",0,"M","2.15.01",2403
+"text/x-qif","Quicken Interchange Format","QIF",0,"M","2.17.00",993
+"text/x-server-parsed-html","HyperText Markup Language","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM","Y","H","2.23.01",315
+"text/x-server-parsed-html","HyperText Markup Language (UTF-16BE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2829
+"text/x-server-parsed-html","HyperText Markup Language (UTF-16LE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2830
+"text/x-server-parsed-html","HyperText Markup Language (UTF-32BE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2827
+"text/x-server-parsed-html","HyperText Markup Language (UTF-32LE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2828
+"text/x-server-parsed-html","HyperText Markup Language (UTF-8)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.25.01",2831
+"text/x-server-parsed-html","HyperText Markup Language 5","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM","Y","H","2.33.00",4109
+"text/x-speech","SpchComp Encoded Speech/Audio","SPC",0,"M","2.07.00",1559
+"text/x-vcalendar","Virtual Calendar File","VCS, ICS",0,"M","2.18.00",2072
+"text/x-vcard","Virtual Business Card File","VCF",0,"M","2.12.02",421
+"text/x-webviewhtml","Extensible Style Language","XSL, XML, HTML, HTM, HTT, XSLT","Y","H","2.15.00",570
+"text/x-webviewhtml","HyperText Markup Language","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM","Y","H","2.23.01",315
+"text/x-webviewhtml","HyperText Markup Language (MacBinary)","HTML, HTM, HTT, HTTP, ASP, MHT, HTA, HT?",0,"M","2.09.00",1771
+"text/x-webviewhtml","HyperText Markup Language (UTF-16BE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2829
+"text/x-webviewhtml","HyperText Markup Language (UTF-16LE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2830
+"text/x-webviewhtml","HyperText Markup Language (UTF-32BE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2827
+"text/x-webviewhtml","HyperText Markup Language (UTF-32LE)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.19.03",2828
+"text/x-webviewhtml","HyperText Markup Language (UTF-8)","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM",0,"M","2.25.01",2831
+"text/x-webviewhtml","HyperText Markup Language 5","HTML, HTM, HT?, HTTP, ASP?, MHT, HH?, XM","Y","H","2.33.00",4109
+"text/x-xmcd","Xmcd CD Information","XMCD",0,"M","2.16.00",2430
+"text/x-xml-svg","Scalable Vector Graphics Image","SVG",0,"H","2.05.00",1264
+"text/xml","Extensible Markup Language","XML, CDF, OSD, AWE, HTML, HTM","Y","H","2.17.01",342
+"text/xml","Extensible Markup Language (MacBinary)","XML, CDF, OSD, AWE, HTML, HTM",0,"M","2.09.00",1772
+"text/xml","Extensible Markup Language (UTF-16BE)","XML",0,"M","2.14.00",2329
+"text/xml","Extensible Markup Language (UTF-16LE)","XML",0,"M","2.14.00",2330
+"text/xml","Extensible Markup Language (UTF-32BE)","XML",0,"M","2.14.00",2327
+"text/xml","Extensible Markup Language (UTF-32LE)","XML",0,"M","2.14.00",2328
+"text/xml","Extensible Markup Language (UTF-8)","XML",0,"M","2.14.00",2331
+"text/xml","Extensible Metadata Platform Sidecar (XML)","XML, XMP","Y","H","2.14.00",2338
+"text/xml","Extensible Style Language","XSL, XML, HTML, HTM, HTT, XSLT","Y","H","2.15.00",570
+"text/xml","MS Excel Spreadsheet (XML)","XML, XLS, HTM","Y","H","2.26.01",1248
+"text/xml","MS FrontPage Document (XML)","HTML, XML","Y","H","2.23.01",3317
+"text/xml","MS Office Document (XML)","XML, HTM","Y","H","2.03.07",1247
+"text/xml","MS PowerPoint Slides (XML)","PPT, PPS, XML, HTM","Y","H","2.09.00",718
+"text/xml","MS Word Document (XML)","DOC, XML, HTM, HTML, MHT","Y","H","2.26.01",1249
+"text/xml","Portable Application Description (XML)","XML","Y","H","2.14.00",2337
+"text/xml","SmartAssembly Project","{SA}PROJ",0,"M","2.33.00",4132
+"text/xml","XML Paper Specification Document (Open XML)","XPS","Y","H","2.32.00",2148
+"text/xml","XSL Formatting Objects Form","FO, XML",0,"H","2.20.00",2861
+"video/3gpp","3GPP Multimedia File","3GP, 3GG, 3G2, 3GPP, 3GPP2, MP4, MPG",0,"M","2.29.00",2096
+"video/3gpp","3GPP Multimedia File (MacBinary)","3GP, 3GPP, 3GPP2",0,"M","2.16.00",2097
+"video/3gpp2","3GPP Multimedia File","3GP, 3GG, 3G2, 3GPP, 3GPP2, MP4, MPG",0,"M","2.29.00",2096
+"video/3gpp2","3GPP Multimedia File (MacBinary)","3GP, 3GPP, 3GPP2",0,"M","2.16.00",2097
+"video/mp2t","MPEG 2 Transport Stream","MP2T, MPEG",0,"M","2.16.00",2424
+"video/mp4v-es","MPEG 4 Animation","MP4, MPEG, MPG4",0,"M","2.16.00",2423
+"video/mp4v-es","MPEG 4 Animation (MacBinary)","MP4, MPEG, MPG4",0,"M","2.16.00",2449
+"video/mpeg","DVD MPEG2 Video Object File","VOB",0,"H","2.19.00",1212
+"video/mpeg","MPEG 2 Transport Stream","MP2T, MPEG",0,"M","2.16.00",2424
+"video/mpeg","MPEG 4 Animation","MP4, MPEG, MPG4",0,"M","2.16.00",2423
+"video/mpeg","MPEG 4 Animation (MacBinary)","MP4, MPEG, MPG4",0,"M","2.16.00",2449
+"video/mpeg","MPEG Animation","MPG, MPEG, MPE, M1V, ENC, MPA, MPS, M2V","Y","H","2.25.00",246
+"video/mpeg","MPEG Animation (MacBinary)","MPG, MPEG, MPE, M1V, ENC, MPA",0,"M","2.09.00",1750
+"video/mpeg","NetFRAME MPEG 2 Animation","MPEG, MPG, MPE, ENC",0,"M","1.00.00",270
+"video/mpeg","ProgDVBR MPEG2 Video","MPEG, MPG",0,"H","2.19.00",2104
+"video/mpeg","Video CD MPEG Movie","DAT",0,"H","2.08.00",446
+"video/mpeg","Xing MPEG Animation","MPG, MPE, M1V, ENC",0,"H","2.19.00",247
+"video/mpv","MPEG Animation","MPG, MPEG, MPE, M1V, ENC, MPA, MPS, M2V","Y","H","2.25.00",246
+"video/mpv","Xing MPEG Animation","MPG, MPE, M1V, ENC",0,"H","2.19.00",247
+"video/ogg","OGG Vorbis Compressed Video","OGM, OGV",0,"M","2.26.00",1934
+"video/ogg","OGG Vorbis Compressed Video (MacBinary)","OGM, OGV",0,"M","2.26.00",3593
+"video/quicktime","QuickTime Image","QTI, QTIF, QTS, QTX, QIF",0,"M","2.23.01",997
+"video/quicktime","QuickTime Movie","MOV, QTM, QT","Y","H","2.25.00",236
+"video/quicktime","QuickTime Movie (MacBinary)","MOV, QTM, QT",0,"M","2.26.00",1748
+"video/vnd.hns.video","RealMedia Audio/Video Stream","RM, RMJ, RAM, RA, RT, RP, RPA",0,"M","2.13.00",1015
+"video/vnd.nokia.interleaved-multimedia","Nokia 9210 Communicator Video","NIM",0,"M","2.16.00",523
+"video/vnd.vivo","VivoActive Streaming Video","VIV, VIVO",0,"M","2.17.00",1121
+"video/x-avi","MS Audio/Visual Interleave (Intel)","AVI, VFW, DA2","Y","H","2.11.00",234
+"video/x-avi","MS Audio/Visual Interleave (Motorola)","AVI, VFW","Y","H","2.17.00",2599
+"video/x-dvd","DVD MPEG2 Video Object File","VOB",0,"H","2.19.00",1212
+"video/x-dvd","Video CD MPEG Movie","DAT",0,"H","2.08.00",446
+"video/x-flc","AutoDesk Animator Flic","FLI, FLC, FII","Y","M","2.25.00",8
+"video/x-fli","AutoDesk Animator Flic","FLI, FLC, FII","Y","M","2.25.00",8
+"video/x-flv","Flash Video","FLV",0,"M","2.13.00",1188
+"video/x-matroska","Matroska Video Stream","MKV, MKA, MKAV",0,"M","2.27.00",1899
+"video/x-mng","Multi-Image Network Graphics Animation","MNG",0,"H","2.30.04",881
+"video/x-motion-jpeg","SDL Motion JPEG Video","MJPG, MJPEG, SMJPEG",0,"M","2.23.00",2110
+"video/x-mpeg","DVD MPEG2 Video Object File","VOB",0,"H","2.19.00",1212
+"video/x-mpeg","MPEG Animation","MPG, MPEG, MPE, M1V, ENC, MPA, MPS, M2V","Y","H","2.25.00",246
+"video/x-mpeg","NetFRAME MPEG 2 Animation","MPEG, MPG, MPE, ENC",0,"M","1.00.00",270
+"video/x-mpeg","ProgDVBR MPEG2 Video","MPEG, MPG",0,"H","2.19.00",2104
+"video/x-mpeg2","DVD MPEG2 Video Object File","VOB",0,"H","2.19.00",1212
+"video/x-mpeg2","NetFRAME MPEG 2 Animation","MPEG, MPG, MPE, ENC",0,"M","1.00.00",270
+"video/x-mpeg2","ProgDVBR MPEG2 Video","MPEG, MPG",0,"H","2.19.00",2104
+"video/x-mpeg2","Xing MPEG Animation","MPG, MPE, M1V, ENC",0,"H","2.19.00",247
+"video/x-mpeg2a","NetFRAME MPEG 2 Animation","MPEG, MPG, MPE, ENC",0,"M","1.00.00",270
+"video/x-mpeg2a","ProgDVBR MPEG2 Video","MPEG, MPG",0,"H","2.19.00",2104
+"video/x-mpg","DVD MPEG2 Video Object File","VOB",0,"H","2.19.00",1212
+"video/x-mpg","MPEG 2 Transport Stream","MP2T, MPEG",0,"M","2.16.00",2424
+"video/x-mpg","MPEG 2 Transport Stream","MP2T, MPEG",0,"M","2.16.00",2424
+"video/x-mpg","MPEG 4 Animation","MP4, MPEG, MPG4",0,"M","2.16.00",2423
+"video/x-mpg","MPEG 4 Animation (MacBinary)","MP4, MPEG, MPG4",0,"M","2.16.00",2449
+"video/x-mpg","MPEG Animation","MPG, MPEG, MPE, M1V, ENC, MPA, MPS, M2V","Y","H","2.25.00",246
+"video/x-mpg","NetFRAME MPEG 2 Animation","MPEG, MPG, MPE, ENC",0,"M","1.00.00",270
+"video/x-mpg","NetFRAME MPEG 2 Animation","MPEG, MPG, MPE, ENC",0,"M","1.00.00",270
+"video/x-mpg","ProgDVBR MPEG2 Video","MPEG, MPG",0,"H","2.19.00",2104
+"video/x-mpg","ProgDVBR MPEG2 Video","MPEG, MPG",0,"H","2.19.00",2104
+"video/x-mpg","Xing MPEG Animation","MPG, MPE, M1V, ENC",0,"H","2.19.00",247
+"video/x-ms-asf","MS Windows Media Active Stream","WMV, WMA, ASF, ASR, DVR-MS",0,"H","2.19.00",1259
+"video/x-ms-asf-plugin","MS Windows Media Active Stream","WMV, WMA, ASF, ASR, DVR-MS",0,"H","2.19.00",1259
+"video/x-ms-video","MS Audio/Visual Interleave (Intel)","AVI, VFW, DA2","Y","H","2.11.00",234
+"video/x-ms-video","MS Audio/Visual Interleave (Motorola)","AVI, VFW","Y","H","2.17.00",2599
+"video/x-ms-wm","MS Windows Media Active Stream","WMV, WMA, ASF, ASR, DVR-MS",0,"H","2.19.00",1259
+"video/x-msvideo","MS Audio/Visual Interleave (Intel)","AVI, VFW, DA2","Y","H","2.11.00",234
+"video/x-msvideo","MS Audio/Visual Interleave (Motorola)","AVI, VFW","Y","H","2.17.00",2599
+"video/x-pn-realvideo","RealMedia Audio/Video Stream","RM, RMJ, RAM, RA, RT, RP, RPA",0,"M","2.13.00",1015
+"video/x-screencam","ScreenCam Movie","SCM",0,"M","2.12.00",2109
+"video/x-videocd","Video CD MPEG Movie","DAT",0,"H","2.08.00",446
+"x-chemical/x-ctx","CACTVS Clear Text File","CTX",0,"M","2.10.00",516
+"x-drawing/x-cmx","Corel Metafile Exchange Image (Intel)","CMX, PAT, CDR",0,"H","2.25.00",631
+"x-drawing/x-cmx","Corel Metafile Exchange Img (Motorola)","CMX, PAT, CDR",0,"H","2.17.00",2279
+"x-drawing/x-dwf","AutoDesk Web Graphics Image","DWF",0,"M","2.10.00",692
+"x-drawing/x-dwg","AutoCAD Drawing","DWG",0,"M","2.03.06",26
+"x-drawing/x-dxb","AutoCAD Drawing Exchange Binary","DXB, ACAD",0,"M","2.08.00",75
+"x-drawing/x-dxf","AutoCAD Drawing Exchange (ASCII)","DXF",0,"M","2.03.18",73
+"x-drawing/x-dxf","AutoCAD Drawing Exchange(Binary)","DXF",0,"M","2.08.00",74
+"x-magnus-internal/x-shellcgi","Personal Home Page Script","PHP, PHP3, PHP4, PH3, PH4",0,"M","2.15.01",2403
+"x-music/x-midi","Karaoke MIDI File","KAR, MID, MF",0,"M","2.25.00",815
+"x-object/x-oogl","Object Oriented Graphics Library: 4x4 Transformation","INST",0,"M","2.23.01",2557
+"x-object/x-oogl","Object Oriented Graphics Library: 4x4 Transformations (Binary)","GRP, PRJ",0,"M","2.17.00",2559
+"x-object/x-oogl","Object Oriented Graphics Library: Bezier (ASCII)","BBP, BEZ",0,"M","2.17.00",2549
+"x-object/x-oogl","Object Oriented Graphics Library: Bezier (Binary)","BBP, BEZ",0,"M","2.17.00",2550
+"x-object/x-oogl","Object Oriented Graphics Library: Mesh (ASCII)","MESH",0,"M","2.14.00",2291
+"x-object/x-oogl","Object Oriented Graphics Library: Mesh (Binary)","MESH",0,"M","2.17.00",2548
+"x-object/x-oogl","Object Oriented Graphics Library: Multiple 4x4 Transformations","GRP, PRJ",0,"M","2.17.00",2558
+"x-object/x-oogl","Object Oriented Graphics Library: Objects (ASCII)","OFF",0,"M","2.23.01",2551
+"x-object/x-oogl","Object Oriented Graphics Library: Objects (Binary)","OFF",0,"M","2.17.00",2552
+"x-object/x-oogl","Object Oriented Graphics Library: Quadrilaterals (ASCII)","QUAD",0,"M","2.17.00",906
+"x-object/x-oogl","Object Oriented Graphics Library: Quadrilaterals (Binary)","QUAD",0,"M","2.17.00",2547
+"x-object/x-oogl","Object Oriented Graphics Library: Skeleton","SKEL",0,"M","2.17.00",2555
+"x-object/x-oogl","Object Oriented Graphics Library: Sphere","SPH",0,"M","2.17.00",2556
+"x-object/x-oogl","Object Oriented Graphics Library: Vectors (ASCII)","VECT",0,"M","2.17.00",2553
+"x-object/x-oogl","Object Oriented Graphics Library: Vectors (Binary)","VECT",0,"M","2.17.00",2554
+"x-plugin/x-talker","SpchComp Encoded Speech/Audio","SPC",0,"M","2.07.00",1559
+"x-sound/x-aiff","Audio IFF Compressed Sound","AIFC, AIFF, AIF, IFF, SND","Y","H","2.25.00",1693
+"x-sound/x-aiff","Audio IFF Sound","AIFF, AIFC, AIF, IFF, SND","Y","H","2.18.00",323
+"x-vector/x-hpgl2","HP Graphics Language Drawing (PJL)","HPGL, HGL, PLT","Y","H","2.06.03",841
+"x-vector/x-svf","Simple Vector Format Image","SVF",0,"M","2.11.00",1083
+"x-world/x-vrml","Virtual Reality World (ASCII)","WRL, WRZ, VRML, WRML",0,"M","2.17.00",412
+"x-world/x-vrml","Virtual Reality World (Binary)","WRL, IVR, BEH, LIT, WRZ",0,"M","1.05.00",413
+"x-www/x-mime","Internet Message (MIME)","EML, TXT, MHT, MIM, MME, MIME, MSG","Y","H","2.22.01",1262
+"x-wwwserver/x-redirection","MS Internet Explorer Shortcut (MacBinary)","URL",0,"M","2.09.00",1776
+"x-wwwserver/x-redirection","MS Windows Internet Shortcut","URL, MIM, ULK",0,"M","2.00.00",140
+"x-wwwserver/x-shellcgi","Common Gateway Interface Script","CGI",0,"M","2.26.00",618
+"zz-application/zz-winassoc-cdr","Corel Draw Raster (Intel)","CDR, PAT, CDT","Y","H","2.15.03",241
+"zz-application/zz-winassoc-cdr","Corel Draw Raster (Motorola)","CDR, PAT","Y","H","2.17.00",2597
+"zz-application/zz-winassoc-dxf","AutoCAD Drawing Exchange (ASCII)","DXF",0,"M","2.03.18",73
+"zz-application/zz-winassoc-dxf","AutoCAD Drawing Exchange(Binary)","DXF",0,"M","2.08.00",74
+"zz-application/zz-winassoc-HGL","HP Graphics Language Drawing","HGL, HPGL, PLT, HPG",0,"M","2.28.00",778
+"zz-application/zz-winassoc-hgl","HP Graphics Language Drawing (PJL)","HPGL, HGL, PLT","Y","H","2.06.03",841
+"zz-application/zz-winassoc-lwp","Lotus Word Pro 96/97 Document","LWP, MWP",0,"M","2.23.00",846
+"zz-application/zz-winassoc-mpp","MS Project File","MPP, MPT","Y","H","2.26.00",348
+"zz-application/zz-winassoc-TAX","TurboTax Tax Return","TAX",0,"M","2.11.00",2093
+"zz-application/zz-winassoc-wdb","MS Works Database (OLE)","WDB, DB","Y","H","2.27.00",567
+"zz-application/zz-winassoc-wdb","MS Works Database 2 for Windows/DOS","WDB",0,"M","2.21.00",3005
+"zz-application/zz-winassoc-wdb","MS Works Database 3 for Windows","WDB",0,"M","2.28.00",3006
+"zz-application/zz-winassoc-wps","MS Works for DOS Document","WPS, WWP","Y","H","2.28.00",134
+"zz-application/zz-winassoc-wps","MS Works for Mac 2 Document","WP2",0,"M","2.19.00",2759
+"zz-application/zz-winassoc-wps","MS Works for Mac 3 Document","WP",0,"M","2.19.00",2758
+"zz-application/zz-winassoc-wps","MS Works for Mac 4 Database/Doc/Sheet (OLE)","DB4, WP4, SS4","Y","H","2.19.00",2757
+"zz-application/zz-winassoc-wps","MS Works for Windows 3 Document (OLE)","WPS, WWP","Y","H","2.19.00",2624

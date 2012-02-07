@@ -1,0 +1,309 @@
+
+Summary of Investigated Source:
+
+Sum:                                                                    Totals:
+----------------------------------------------------------------------- ----------
+Files                                                                       986278
+File Sizes (KB)                                                          488658258
+Wrong File Extension                                                         31710
+Scan Time (ms)                                                             7:44:41
+Accuracy:
+  High (99.99%)                                                             911810
+  Medium (90%)                                                               74205
+  Low (50%)                                                                    254
+  None                                                                           9
+
+Platforms:
+  N/A                                                                            9
+  Commodore Amiga/64                                                        239385
+  IBM OS/2                                                                  584056
+  Apple Macintosh (Intel)                                                     1688
+  Apple Macintosh (Motorola)                                                670618
+  MS Windows                                                                859679
+  MS/PC DOS                                                                 720291
+  Sun OS                                                                    581945
+  UNIX                                                                      769594
+  Atari                                                                         22
+  MS Windows Mobile/Pocket PC/CE                                              1621
+  Palm OS                                                                     1629
+  Linux                                                                       3692
+
+Storage:
+  N/A                                                                           53
+  Cabinet/Archive                                                            14821
+  Binary                                                                    559154
+  Bitmap/Raster                                                             151792
+  Digital Audio                                                                  9
+  Music Notes                                                                   14
+  Text                                                                      621347
+  Translated                                                                   572
+  Vector                                                                       562
+  Floating Header                                                           346261
+  Compressed                                                                 14734
+  Encrypted                                                                      8
+
+Content:
+  N/A                                                                           33
+  Video                                                                       3483
+  Database                                                                   24769
+  Email                                                                       2007
+  Document                                                                  539030
+  Font                                                                      231274
+  Game Data                                                                     15
+  Graphic Image                                                             464887
+  Hypertext                                                                 467322
+  Personal/User Data                                                        962542
+  Library of Functions                                                           2
+  Macro/Script                                                              349794
+  Program Data                                                               41839
+  Program Executable                                                           399
+  Raw Printer Data                                                           26199
+  Shortcut/Link                                                                  6
+  Sound/Audio                                                                   10
+  Source Code                                                                36343
+  Spreadsheet                                                                85058
+  Template                                                                     306
+  Text                                                                      726318
+  Presentation                                                                 222
+  CAD/3D Model                                                                 144
+  Archived Files                                                             14093
+  Form                                                                           2
+  Index                                                                          3
+  Encryption Key                                                                 1
+
+File Types:
+                                                                  Type
+  File Type:                                                      Index Total:
+  --------------------------------------------------------------- ----- ----------
+  Text File                                                           3      87245
+  Graphics Interchange Format                                         4      36302
+  MS Windows Bitmap                                                   5         72
+  PK Zip Archive                                                     12         14
+  MacBinary (Mac Data + Resource Fork)                               13          1
+  Targa Bitmap Image                                                 19          1
+  DOS Batch File                                                     22          4
+  AutoCAD Drawing                                                    26          2
+  BASIC Script/Source Code                                           28         17
+  Gzip Unix Archive                                                  44      14021
+  Arc Archive                                                        46          1
+  Zoo Compressed Archive                                             56          1
+  Help File                                                          57          2
+  dBase III/III+/IV/FoxBase+/FoxPro Database                         58       2662
+  Dr. Halo Picture                                                   67          5
+  AutoCAD Drawing Exchange (ASCII)                                   73         39
+  RLE Graphic Image                                                  91        852
+  Guide Document                                                     92       1045
+  MS Windows Password List                                           93          6
+  Harvard Graphics Palette                                           94          1
+  Compiler Library (COFF)                                            95          2
+  Lotus 123 Font                                                     96         85
+  Lotus 123 File                                                     97        174
+  MS Windows Fax Cover Page                                          98         41
+  MS Windows Cabinet Archive                                         99          7
+  MS Windows OLE Type Library                                       100          3
+  MS Windows Registry Hive                                          101          9
+  Lotus 123 File                                                    102          1
+  MS Internet Explorer Cache                                        103          1
+  Lotus 123 Ver. 1 & 2 Worksheet                                    104          9
+  Lotus 123 Ver. 3 & 4 Worksheet                                    105         50
+  Lotus 123 Ver. 1 Worksheet                                        106        545
+  MS Excel Worksheet/Template (OLE)                                 111      62857
+  Encapsulated PostScript Preview                                   133        417
+  MS Works for DOS Document                                         134          1
+  Ventura Publisher File                                            152          2
+  WordPerfect Document                                              157        364
+  WordPerfect Support File                                          163          3
+  MS PowerPoint Slides/Add-on (OLE)                                 164      51280
+  Encapsulated PostScript Document                                  171       5079
+  X11 BitMap                                                        179          7
+  JPEG File Interchange File                                        185     109283
+  HP Printer Control Language File                                  193          1
+  MS Excel Workspace/Workbook                                       195          1
+  ACT! 2.0 Report                                                   208          1
+  MS Word for Macintosh Document                                    216        138
+  MS Word for DOS/Macintosh Document                                217         54
+  MS Word for Windows Document (OLE)                                229      76607
+  MS Windows MetaFile (placeable)                                   230          1
+  MS Windows 3.x Logo                                               252          1
+  Adobe Portable Document Format                                    258     231106
+  BinHex Archive                                                    259          4
+  MS Rich Text Format Document                                      269       1067
+  MS Compound Document (OLE)                                        274        375
+  MS Windows Policy                                                 299          1
+  Adobe PostScript Document                                         301      20638
+  MS Windows Shortcut/Link                                          314          2
+  HyperText Markup Language                                         315     202361
+  Tag Image File Format (Intel)                                     321         31
+  EXtensible Markup Language                                        342      32188
+  Adobe PhotoShop Image                                             400          2
+  Java Script Source Code File                                      401        379
+  Source Code Make File                                             405         58
+  C/C++ Source Code File                                            406        344
+  Printer Job Language Image                                        408         20
+  Adobe PostScript Document (PJL)                                   410        431
+  MS Developer Studio Project                                       411          2
+  Virtual Reality World (Binary)                                    413         12
+  Cascading Style Sheet                                             415        157
+  MS Visual C++ Resource Script                                     416          2
+  Java Source Code File                                             418        356
+  Shockwave Flash Object                                            429       3473
+  Adobe Illustrator Drawing                                         441        453
+  ANSI Text File                                                    444          2
+  Active Server Page                                                447        149
+  Comma Separated Values Text File                                  451      18676
+  Setup Information                                                 455        198
+  Initialization File                                               456        133
+  Printer Separator Page                                            459         25
+  Adobe Linguistics File                                            468          1
+  UHArc Compressed Archive                                          484          1
+  HTML + XML Namespace                                              488       4416
+  MS Visual Basic Class Module                                      510          1
+  Evolution Email Message                                           538          2
+  Horde Internet Messaging Program (IMP) Email Message              542          1
+  Mutt Email Message                                                546          1
+  EXtensible Style Language                                         570         10
+  MS Office Outlook 2003 Email Message                              571          1
+  Microsoft Outlook 2000 IMO Email Message                          574          6
+  MS Outlook Express Email Message                                  575         12
+  Pine Email Message                                                577          4
+  MS Office Macro Reference (OLE)                                   591          2
+  Common Gateway Interface Script                                   618         34
+  Code Page Translation File                                        636          1
+  MS Visual Studio Properties                                       656          1
+  Wise Installer Log                                                658          2
+  Log File (Unknown Source)                                         660          3
+  SGML Document Type Definition                                     686        255
+  AutoDesk Web Graphics Image                                       692        299
+  Internet Message                                                  703       1251
+  MS PowerPoint Slides (XML)                                        718        115
+  Fractal Image File                                                725          1
+  Flexible Image Transport System Bitmap                            726       1057
+  FrameMaker Document                                               730         28
+  GenePix Array List                                                755        146
+  MS Excel Graph                                                    768          3
+  Gridded Binary Image                                              770          1
+  HP Graphics Language Drawing                                      778          1
+  ISO 9660 CD-ROM Image (Data Mode 1)                               803          1
+  Open Inventor 3d Scene (ASCII)                                    807          2
+  HP Printer Control Language Image (PJL)                           836          3
+  Berkeley UNIX Mailbox Format                                      862        555
+  Eudora Mailbox                                                    863          1
+  Monarch Graphic Image                                             870          1
+  Object Oriented Graphics Library: Quadrilaterals (ASCII)          906          4
+  Eudora Email Message                                              933         24
+  NASA Planetary Data Systems Image                                 938        163
+  Perl Application                                                  955         66
+  AutoCAD Plot Drawing                                              960          1
+  Portable Network Graphics Bitmap                                  965       4125
+  MacPaint Bitmap                                                   966          3
+  Lotus Freelance Graphics 97 File                                  976          2
+  Python Tkinter / UNIX Shell Script                                987        220
+  XML Resource Description Framework                               1007         86
+  Semicolon Divided Values File                                    1051        138
+  Standard Generalized Markup Lang                                 1060       1621
+  ArcView GIS Shape                                                1063          3
+  Structured Query Language Query                                  1079        161
+  Structured Query Language Report / Program                       1080          5
+  Tape Archive (Compressed with Gzip)                              1088          5
+  Thumbs Plus Database                                             1089          2
+  UU-Encoded File                                                  1109          1
+  MS Visual Basic Project                                          1112          1
+  MS Visio 3/4 Document/Drawing/Shapes/Template                    1130          6
+  MS Write / Word Backup                                           1136         35
+  MS Visual BASIC Source Code                                      1214          5
+  MS Visual BASIC Form                                             1223          2
+  MS Visual BASIC Script/Header                                    1225          2
+  Text File: Unicode/DoubleByte/UTF-16LE                           1242         15
+  MS Excel Spreadsheet (XML)                                       1248        507
+  MS Word Document (XML)                                           1249        352
+  Text File (UTF-8)                                                1254         24
+  Source Code (General)                                            1256       1321
+  Tab Separated Values Text File                                   1258       2812
+  MS Windows Media Active Stream                                   1259          7
+  Pro/ENGINEER Geographic Image                                    1260          1
+  Internet Message (MIME)                                          1262        119
+  Adobe Portable Document (MacBinary)                              1331        167
+  Generic Sound Sample                                             1367          1
+  NIST NSRL Hash Database                                          1377         10
+  Bzip Archive V2                                                  1426          1
+  CPIO Archive                                                     1427          1
+  UFA Compressed Archive                                           1438         35
+  PestPatrol Scan Strings                                          1454          1
+  MS Access Report / Snapshot                                      1521         26
+  Text File (MacBinary)                                            1734          1
+  MS PowerPoint Slides (MacBinary)                                 1758         12
+  MS Word for Mac Document (MacBinary)                             1761          1
+  MS Excel Spreadsheet (MacBinary)                                 1766          9
+  Assembly Source Code File                                        1803        127
+  MS C# Source Code                                                1808          1
+  MS Outlook Rich Text Formatted Message                           1811          2
+  MathCaD Document                                                 1898          4
+  MIME HTML Web Page Archive                                       1910          1
+  MapInfo Spatial Table                                            2051          3
+  Virtual Calendar File                                            2072          4
+  XML Schema                                                       2132         35
+  XML Paper Specification Document (Open XML)                      2148          1
+  VTeX Multiple Master Font Metrics                                2169          1
+  MS Visual Studio.NET Deployment Project                          2184          1
+  Web Service Description Language                                 2186          3
+  MS Windows .NET Application Configuration                        2189          2
+  MS Word Document (Open XML)                                      2208        163
+  MS Excel Spreadsheet (Open XML)                                  2209         39
+  MS PowerPoint Presentation (Open XML)                            2210        220
+  UNIX Program/Program Library (32-bit)                            2264          1
+  UNIX Shell Archive                                               2311          1
+  GNU Info Hypertext Document                                      2318          1
+  EXtensible Markup Language (UTF-16LE)                            2330         24
+  EXtensible Markup Language (UTF-8)                               2331        960
+  ArcExplorer Project                                              2359          2
+  Grace Project File                                               2360          5
+  MS J# Source Code                                                2394          2
+  Personal Home Page Script                                        2403         10
+  Debian Linux Package                                             2407          1
+  AppleSingle MIME Format                                          2438         10
+  AppleDouble MIME Format                                          2439          5
+  Google Earth Keyhole Markup Language                             2469        768
+  Medical Waveform Description                                     2484          1
+  OpenDocument Text                                                2500          2
+  AVS Field Data                                                   2532          1
+  Object Oriented Graphics Library: Objects (ASCII)                2551          2
+  ACIS 3D Model                                                    2563          4
+  Facility for Interactive Generation File                         2596          5
+  MS Windows Media Player Play List                                2602          1
+  Perfect Office Document                                          2603          2
+  The Bat! Email Message                                           2604          2
+  Yahoo! Mail Email Message                                        2606          1
+  OpenOffice Impress Presentation / Template                       2612          2
+  Applixware Graphic Image                                         2696          2
+  MS Word for Windows Document (pre-OLE)                           2738        197
+  Adobe Acrobat Forms Data Format                                  2805          2
+  LDAP Data Interchange Format                                     2814          1
+  HyperText Markup Language (UTF-16BE)                             2829          1
+  HyperText Markup Language (UTF-16LE)                             2830         27
+  HyperText Markup Language (UTF-8)                                2831         27
+  MS InfoPath Document (XML)                                       2843          1
+  Windows Policy Template                                          2852          1
+  NetCDF CDL Metadata                                              2950          3
+  MS Works Database 3 for Windows                                  3006          4
+  Digital Asset Exchange File                                      3038          1
+  Pretty Good Privacy Signed Message (ASCII)                       3084          7
+  Pretty Good Privacy Public Key Block (ASCII)                     3085          1
+  Linux Journalled Flash File System Image (JFFS,Intel)            3139          5
+  dBase II Database                                                3157          1
+  3D Systems Stereolithography CAD Image (Binary)                  3173          2
+  CGNS Advanced Data Format Database                               3225         18
+  ACE/gr Parameter Data (ASCII)                                    3240          3
+  Palm OS Application                                              3278          2
+  Palm OS Dynamic Library                                          3295          1
+  Mobipocket eBook                                                 3297          1
+  MS Rich Text Format Document (Mac)                               3299         58
+  Wyko Vision Dataset (ASCII)                                      3315         14
+  Google Earth Keyhole Markup Langage (Compressed)                 3316        648
+  MS FrontPage Document (XML)                                      3317         81
+  Netscape Browser Bookmarks                                       3318          6
+  Web Script Source Code                                           3319         17
+  Tgif Drawing                                                     3346          6
+  Apple Property List                                              3410          2
+  ArcInfo Coverage Export                                          3466        101
+  Earth Resource Mapping Satellite Image Header                    3488          1
+  --------------------------------------------------------------- ----- ----------
