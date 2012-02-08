@@ -97,7 +97,7 @@ def loadTruths():
         truth.fileName = filename
         for key,value in line.items():
 
-            if FileTruth.__dict__.has_key(key):
+            if truth.__dict__.has_key(key):
                 truth.__dict__[key] = value
         truth.baseMime = getMime(int(truth.id),line["type"], cache.decode, cache.equivMimes)
         truth.version = getVersion(line["notes"], line["metadata"])
@@ -147,7 +147,7 @@ def getVersion(notes, metadata):
 
 def loadComplete():
 
-    str_lst = [str(prop) for prop in sorted(FileTruth.__dict__.keys())]
+    str_lst = [str(prop) for prop in sorted(FileTruth().__dict__.keys())]
 
     tmp_lst = str_lst[:]
     for prop in tmp_lst:
@@ -168,7 +168,7 @@ def loadComplete():
     for line in reader:
         truth = FileTruth()
         for prop,value in line.items():
-            if len(value) > 0 and value[0] is "[":
+            if value is not None and len(value) > 0 and value[0] is "[":
                 value = value.replace("'","").replace("[","").replace("]","")
                 values = value.split(",")
                 values = map(lambda s: s.strip(),values)
