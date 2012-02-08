@@ -7,10 +7,10 @@ __author__ = 'abr'
 
 #dataDir = '/home/abr/.gvfs/sftp for scape on iapetus/home/scape/working/tooltest/005/'
 dataDir = '/home/abr/Downloads/000/'
-
+truthFile = '/home/abr/Downloads/govdocsDetails 6-25-2010.csv'
+comleteFile = "/home/abr/Downloads/complete.csv"
 
 thisDir = os.path.abspath(os.path.dirname(__file__))
-truthFile = thisDir+'/csv/govdocsDetails 6-25-2010-resaved.csv'
 dicFile = thisDir+'/csv/mimetype-decoder.csv'
 equivFile = thisDir+'/csv/mimetype-equiv.csv'
 
@@ -85,7 +85,7 @@ def loadTruths():
         return
     print "Loading ground truths"
     fileThing = open(truthFile, mode="rt")
-    reader = csv.DictReader(fileThing, fieldnames=["filename", "size", "type", "notes", "extensions", "accurary", "metadata", "kind", "id", "Y", "digest"],
+    reader = csv.DictReader(fileThing, fieldnames=["filename", "size", "type", "notes", "extensions", "accuracy", "metadata", "kind", "id", "Y", "digest"],
         restkey="rest", delimiter=";")
     for line in reader:
 
@@ -93,21 +93,14 @@ def loadTruths():
         if filename == 'Filename+Ext':
             continue
         filename = filename.split(".")[0]
-        truth = FileTruth(
-            filename = filename,
-            size = line["size"],
-            type = line["type"],
-            notes = line["notes"],
-            extensions = line["extensions"],
-            accuracy = line["accurary"],
-            metadata = line["metadata"],
-            kind = line["kind"],
-            id = line["id"],
-            Y = line["Y"],
-            digest = line["digest"],
-            decoder = cache.decode,
-            equivalentMimes = cache.equivMimes
-        )
+        truth = FileTruth()
+        truth.fileName = filename
+        for key,value in line.items():
+
+            if FileTruth.__dict__.has_key(key):
+                truth.__dict__[key] = value
+        truth.baseMime = getMime(int(truth.id),line["type"], cache.decode, cache.equivMimes)
+        truth.version = getVersion(line["notes"], line["metadata"])
         if not truth.baseMime == []:
             cache.insert(filename,truth)
     cache.loadingDone = True
@@ -115,9 +108,82 @@ def loadTruths():
     print "Ground truths loaded"
 
 
+
+
+problems = {}
+
+def getMime(id, type, decoder, equivalentMimes):
+    try:
+        mime = decoder(id)
+        try:
+            mimes = equivalentMimes(mime)
+        except KeyError:
+            mimes = []
+        return [mime] + mimes
+    except KeyError:
+        problems[id] = type
+        return []
+
+
+def getCharset(line):
+    None
+
+def getVersion(notes, metadata):
+    formatIndex = notes.find("Format v")
+    version = []
+    if formatIndex >= 0:
+        start = formatIndex+len("Format v")
+        end =  start+4
+        temp = notes[start:end]
+        version.append(temp)
+    splits = metadata.split("; ")
+    for split in splits:
+        if split.startswith("File Version: "):
+            version.append(split[len("File Version: "):])
+    return version
+
+
+
+
+def loadComplete():
+
+    str_lst = [str(prop) for prop in sorted(FileTruth.__dict__.keys())]
+
+    tmp_lst = str_lst[:]
+    for prop in tmp_lst:
+        if "__" in prop:
+            str_lst.remove(prop)
+
+    del tmp_lst
+
+    try:
+        fileThing = open(comleteFile, mode="rt")
+    except IOError:
+        print "Could not read "+os.path.abspath(comleteFile)
+        raise IOError
+
+    reader = csv.DictReader(fileThing, fieldnames=str_lst,
+        restkey="rest"
+        , delimiter="\t")
+    for line in reader:
+        truth = FileTruth()
+        for prop,value in line.items():
+            if len(value) > 0 and value[0] is "[":
+                value = value.replace("'","").replace("[","").replace("]","")
+                values = value.split(",")
+                values = map(lambda s: s.strip(),values)
+                truth.__dict__[prop] = values
+            else:
+                truth.__dict__[prop] = value
+        cache.insert(truth.fileName,truth)
+    cache.loadingDone = True
+    fileThing.close()
+    pass
+
+
 def groundTruth(filepath):
     if not cache.loadingDone:
-        loadTruths()
+        loadComplete()
     try:
         filename = os.path.basename(filepath)
         filename = filename.split(".")[0]
@@ -142,7 +208,7 @@ def loadEquivMimes():
     for line in reader:
         mime = line["mime"].strip();
         mimesStr = line["mimes"]
-        if mimesStr == None:
+        if mimesStr is None:
             continue
         mimes = mimesStr.split(",")
         mimes = map(lambda s: s.strip(),mimes)

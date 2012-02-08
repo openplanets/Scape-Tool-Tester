@@ -47,13 +47,18 @@ class ToolEvaluation(object):
             print "Files scanned "+str(filesNumber)
             print "Files in error "+str(errorNumber)
             for truth,identified in sorted(self.problems.items()):
+                total = 0
+                for error,number in sorted(identified.items()):
+                    if  not error == "Correct":
+                        total += number
 
-               print "For mime " + truth + " we made "+str(identified.get("Correct",0))+ " correct identifications, and these wrong identifications:"
-               for error,number in sorted(identified.items()):
-                   if  not error == "Correct":
-                       print "\t"+error + "\t:\t" + str(number)
-            for millis in sorted(self.timing.keys()):
-               print str(self.timing[millis]) + " files were identified in "+str(millis)+"ms"
+                total += identified.get("Correct",0)
+                print "" + truth + ":" + str(identified.get("Correct",0))+ ":"+str(total)
+                for error,number in sorted(identified.items()):
+                    if  not error == "Correct":
+                        print "\t"+error + "\t:\t" + str(number)
+        for millis in sorted(self.timing.keys()):
+            print str(self.timing[millis]) + " files were identified in "+str(millis)+"ms"
 
 
 
@@ -83,7 +88,7 @@ class ToolEvaluation(object):
         key = ", ".join(truth.baseMime)
         overlapOfTypes = self._compareTypes(identifiedTypes,truth)
         if self.verbal:
-            print(filepath)
+            print filepath+":"+identifiedTypesKey
         if overlapOfTypes == []:
             errorNumber+=1
             try:
@@ -99,7 +104,6 @@ class ToolEvaluation(object):
             self.problems[key] = previousProblems
             if self.verbal:
                 print "GroundTruth marks it as", truth.baseMime
-                print "Identified as "+identifiedTypesKey
                 print
         else:
             identifiedType = "Correct"

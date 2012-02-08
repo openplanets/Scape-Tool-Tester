@@ -3,7 +3,7 @@ from scapetesting.govdocs1.govdocs1 import loadTruths, cache
 
 __author__ = 'abr'
 
-outFile = 'scapetesting/govdocs1/csv/complete.csv'
+outFile = 'complete.csv'
 print os.path.abspath(outFile)
 
 loadTruths()
