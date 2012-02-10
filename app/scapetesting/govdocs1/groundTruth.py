@@ -1,11 +1,12 @@
 import csv
 import os
+from config import comleteFile
 
 __author__ = 'abr'
 
 
 groundTruths = {}
-comleteFile = "/home/abr/Downloads/complete.csv"
+
 
 class FileTruth(object):
 
