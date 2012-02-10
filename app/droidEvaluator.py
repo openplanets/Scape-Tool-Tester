@@ -3,6 +3,7 @@ import subprocess
 import tempfile
 import sys
 import time
+import config
 from scapetesting.droidEval import droidParser
 
 from scapetesting.droidEval.droidParser import droidReportLoader
@@ -10,15 +11,17 @@ from scapetesting.toolevaluation.util import ensure_dir
 
 __author__ = 'abr'
 
-_droidPath = "/home/abr/Downloads/droid/droid.sh"
+
 
 def droidRunner(reportfile,csvReportFile):
-    dataDir = '/home/abr/Downloads/000/'
+
     with open(ensure_dir(reportfile),mode="w") as reportFilePointer:
         start = time.time()
-        subprocess.call(["bash",_droidPath,"-a",dataDir,"-R","-p",reportfile],cwd=os.path.dirname(_droidPath), stderr=sys.stdout)
+        subprocess.call(["bash",config._droidPath,"-a", config.dataDir,"-R","-p",reportfile],cwd=os.path.dirname(
+            config._droidPath), stderr=sys.stdout)
         end = time.time()
-        subprocess.call(["bash",_droidPath,"-p",reportfile,"-q","-e",csvReportfile],cwd=os.path.dirname(_droidPath),stderr=sys.stdout)
+        subprocess.call(["bash",config._droidPath,"-p",reportfile,"-q","-e",csvReportfile],cwd=os.path.dirname(
+            config._droidPath),stderr=sys.stdout)
     return end-start
 
 tempdir = tempfile.mkdtemp()
