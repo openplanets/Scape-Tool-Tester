@@ -8,7 +8,7 @@ __author__ = 'abr'
 #dataDir = '/home/abr/.gvfs/sftp for scape on iapetus/home/scape/working/tooltest/005/'
 dataDir = '/home/abr/Downloads/000/'
 truthFile = '/home/abr/Downloads/govdocsDetails 6-25-2010.csv'
-comleteFile = "/home/abr/Downloads/complete.csv"
+
 
 thisDir = os.path.abspath(os.path.dirname(__file__))
 dicFile = thisDir+'/csv/mimetype-decoder.csv'
@@ -144,41 +144,6 @@ def getVersion(notes, metadata):
 
 
 
-
-def loadComplete():
-
-    str_lst = [str(prop) for prop in sorted(FileTruth().__dict__.keys())]
-
-    tmp_lst = str_lst[:]
-    for prop in tmp_lst:
-        if "__" in prop:
-            str_lst.remove(prop)
-
-    del tmp_lst
-
-    try:
-        fileThing = open(comleteFile, mode="rt")
-    except IOError:
-        print "Could not read "+os.path.abspath(comleteFile)
-        raise IOError
-
-    reader = csv.DictReader(fileThing, fieldnames=str_lst,
-        restkey="rest"
-        , delimiter="\t")
-    for line in reader:
-        truth = FileTruth()
-        for prop,value in line.items():
-            if value is not None and len(value) > 0 and value[0] is "[":
-                value = value.replace("'","").replace("[","").replace("]","")
-                values = value.split(",")
-                values = map(lambda s: s.strip(),values)
-                truth.__dict__[prop] = values
-            else:
-                truth.__dict__[prop] = value
-        cache.insert(truth.fileName,truth)
-    cache.loadingDone = True
-    fileThing.close()
-    pass
 
 
 def groundTruth(filepath):
