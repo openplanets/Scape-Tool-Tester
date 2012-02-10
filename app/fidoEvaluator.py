@@ -17,7 +17,7 @@ def fidoRunner(csvReportFile):
     with  open(csvReportFile,"w") as    fileThing:
         start = time.time()
         subprocess.call(
-            ["python",config._fidoPath,"-recurse",dataDir],
+            ["python2.6",config._fidoPath,"-recurse",dataDir],
             cwd=os.path.dirname(config._fidoPath),
             stdout=fileThing,
             stderr=fileThing)
