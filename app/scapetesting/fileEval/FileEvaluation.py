@@ -1,11 +1,14 @@
+import csv
 import os
 import time
 
 import subprocess
+from scapetesting import govdocs1
 from scapetesting.toolevaluation.toolEvaluation import ToolEvaluation
+from scapetesting.govdocs1 import groundTruth
+from scapetesting.toolevaluation.reportParser import ToolPrecisionTest
 
 from scapetesting.toolevaluation.util import ensure_dir
-from scapetesting.govdocs1 import govdocs1
 
 
 __author__ = 'abr'
@@ -15,29 +18,47 @@ __author__ = 'abr'
 print("running")
 
 
-def fileRunner(datafile, reportfile):
-    with open(datafile,mode="rb") as dataFilePointer:
-        with open(ensure_dir(reportfile),mode="w") as reportFilePointer:
-            start = time.time()
-            subprocess.check_call(["file","-i","-"],stdin=dataFilePointer,stdout=reportFilePointer)
-            end = time.time()
-            return end-start
-    return
+_groundTruth = groundTruth.groundTruths
 
-def fileParser(reportFile,datafile):
+identificationsKeyToMime = {}
+
+
+def fileReportLoader(reportFile):
     #print ("opening ", reportFile)
     type = ""
     encoding = ""
     with open(reportFile) as f:
-        for line in f:
-            if line.startswith('/dev/stdin: '):
-                type = line[len('/dev/stdin: '):].strip()
-                type = type.split(";")[0]
-    os.remove(reportFile)
-    return [type]
+        reader = csv.DictReader(f, fieldnames=["FILE","MIME"], delimiter=":")
+        for line in reader:
+            filename = line["FILE"]
+            if filename is None or len(filename) == 0:
+                continue
+            mime = line["MIME"]
+            filename = os.path.basename(filename)
+            filename = filename.split(".")[0]
+            try:
+                key = int(filename)
+            except ValueError:
+                continue
+            existingMimes = identificationsKeyToMime.get(key,[])
+            existingMimes.append(mime)
+            identificationsKeyToMime[key] = existingMimes
 
-fileEval = ToolEvaluation()
-fileEval.verbal = False
+
+
+#The parser operation just retrieve the entry from the parsed csv file
+
+def fileParser(filename):
+    #print ("opening ", reportFile)
+    filename = os.path.basename(filename)
+    filename = filename.split(".")[0]
+    key = int(filename)
+    mime = identificationsKeyToMime[key]
+    return mime
+
+
+fileEval = ToolPrecisionTest()
+fileEval.verbal = True
 fileEval.groundTruth = govdocs1.groundTruth
-fileEval.tool = fileRunner
+
 fileEval.reportParser = fileParser
