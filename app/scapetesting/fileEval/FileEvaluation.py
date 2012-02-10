@@ -1,14 +1,8 @@
 import csv
 import os
-import time
-
-import subprocess
 from scapetesting import govdocs1
-from scapetesting.toolevaluation.toolEvaluation import ToolEvaluation
 from scapetesting.govdocs1 import groundTruth
 from scapetesting.toolevaluation.reportParser import ToolPrecisionTest
-
-from scapetesting.toolevaluation.util import ensure_dir
 
 
 __author__ = 'abr'
