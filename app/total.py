@@ -8,15 +8,23 @@ print os.path.abspath(outFile)
 
 loadTruths()
 
-truthCounters = {}
+fileThing = open(outFile, mode="w")
 
 for key,truth in cache.groundTruths.items():
-    key = str(truth.baseMime)
-    counter = truthCounters.get(key,0)
-    counter +=1
-    truthCounters[key] = counter
+        print >> fileThing, truth
 
-for key,counter in sorted(truthCounters.items()):
-    print key+":"+str(counter)
+fileThing.close()
+        
 
-#fileThing = open(outFile, mode="w")
+#truthCounters = {}
+
+#for key,truth in cache.groundTruths.items():
+#    key = str(truth.baseMime)
+#    counter = truthCounters.get(key,0)
+#    counter +=1
+#    truthCounters[key] = counter
+
+#for key,counter in sorted(truthCounters.items()):
+#    print key+":"+str(counter)
+
+

@@ -9,4 +9,6 @@ _tikaWrapperPath = "/home/abr/Projects/git/TikaWrapper/target/tikaWrapper-0.0.2-
 
 _fidoPath = "/home/abr/Downloads/openplanets-fido-991c16a/fido/fido.py"
 
-comleteFile = "/home/abr/Downloads/complete.csv"
+comleteFile = "scapetesting/govdocs1/csv/complete.csv"
+
+truthFile = '/home/abr/Downloads/groundtruth-fitools/govdocsDetails 6-25-2010.csv'

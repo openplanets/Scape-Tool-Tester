@@ -1,13 +1,12 @@
 import csv
 import os
 from scapetesting.govdocs1.groundTruth import FileTruth
+from config import truthFile
 
 
 __author__ = 'abr'
 
-#dataDir = '/home/abr/.gvfs/sftp for scape on iapetus/home/scape/working/tooltest/005/'
-dataDir = '/home/abr/Downloads/000/'
-truthFile = '/home/abr/Downloads/govdocsDetails 6-25-2010.csv'
+
 
 
 thisDir = os.path.abspath(os.path.dirname(__file__))
@@ -85,8 +84,10 @@ def loadTruths():
         return
     print "Loading ground truths"
     fileThing = open(truthFile, mode="rt")
-    reader = csv.DictReader(fileThing, fieldnames=["filename", "size", "type", "notes", "extensions", "accuracy", "metadata", "kind", "id", "Y", "digest"],
-        restkey="rest", delimiter=";")
+    #"Filename+Ext","Size","Description","Numbers Metadata Summary","Valid File Extensions","Accuracy","Text Metadata Summary","Content","Description Index","Extension Valid","SHA-1"
+        #"000000.swf","80468","Shockwave Flash Object","Format v0.05, uncompressed","SWF","HIGH",,"Video, Graphic Image, Program Data","429","Y","931B45B6885310CB9E5F4C20321306CC24B919E6"
+    reader = csv.DictReader(fileThing, fieldnames=["filename", "size","Description","numbers", "extensions", "accuracy", "metadata", "kind", "id", "Y", "digest"],
+        restkey="rest", delimiter=",")
     for line in reader:
 
         filename = line["filename"]
@@ -99,8 +100,9 @@ def loadTruths():
 
             if truth.__dict__.has_key(key):
                 truth.__dict__[key] = value
-        truth.baseMime = getMime(int(truth.id),line["type"], cache.decode, cache.equivMimes)
-        truth.version = getVersion(line["notes"], line["metadata"])
+        #print truth.id
+        truth.baseMime = getMime(int(truth.id),line["id"], cache.decode, cache.equivMimes)
+        truth.version = getVersion(line["numbers"], line["metadata"])
         if not truth.baseMime == []:
             cache.insert(filename,truth)
     cache.loadingDone = True
